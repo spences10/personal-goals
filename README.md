@@ -14,7 +14,7 @@ Personal goals for accountability!
 
 - [ ] Finish [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
 - [ ] Start [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
-- [ ] Finish up code life balance
+- [x] Finish up code life balance
 - [ ] Learn more about CSS
 
 #### Things I'll Do in the Future:
