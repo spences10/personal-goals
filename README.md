@@ -12,7 +12,7 @@ Personal goals for accountability!
 
 #### Things I'll do This Week:
 
-- [ ] Finish [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
+- [x] Finish [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
 - [ ] Start [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 - [x] Finish up code life balance
 - [ ] Learn more about CSS
@@ -22,5 +22,7 @@ Personal goals for accountability!
 - [ ] Finish [es6.io](https://es6.io)
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
 - [ ] Calorie Counter React app
+- [ ] Create personal portfolio in React
 - [ ] Twitch.tv project redone in React
 - [ ] Update blog to use Harp or Hexo
+- [ ] Cherry pick from [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
