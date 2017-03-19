@@ -12,14 +12,15 @@ Personal goals for accountability!
 
 #### Things I'll do This Week:
 
-
+- [ ] Learn more about CSS
+- [ ] Progress personal portfolio page in react
 
 ### March 13, 2017
 
 #### Things I'll do This Week:
 
 - [x] Finish [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)
-- [ ] Start [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
+- [x] Start [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 - [x] Finish up code life balance
 - [ ] Learn more about CSS
 
