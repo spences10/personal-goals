@@ -8,6 +8,12 @@ Personal goals for accountability!
 2. Personal Site - Personal Portfolio
 3. Complete freeCodeCamp(:fire:)
 
+### March 20, 2017
+
+#### Things I'll do This Week:
+
+
+
 ### March 13, 2017
 
 #### Things I'll do This Week:
