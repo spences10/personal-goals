@@ -12,8 +12,9 @@ Personal goals for accountability!
 
 #### Things I'll do This Week:
 
-- [ ] Learn more about CSS
+- [ ] Learn more about CSS/Stylus
 - [ ] Progress personal portfolio page in react
+- [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 
 ### March 13, 2017
 
