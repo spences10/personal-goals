@@ -8,12 +8,21 @@ Personal goals for accountability!
 2. Personal Site - Personal Portfolio
 3. Complete freeCodeCamp(:fire:)
 
+### March 27, 2017
+
+#### Things I'll do This Week:
+
+- [ ] Progress teh react portfolio page
+- [ ] Complete the [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+- [ ] Learn more about CSS/Stylus
+- [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
+
 ### March 20, 2017
 
 #### Things I'll do This Week:
 
-- [ ] Learn more about CSS/Stylus
-- [ ] Progress personal portfolio page in react
+- [x] Learn more about CSS/Stylus
+- [x] Progress personal portfolio page in react
 - [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 
 ### March 13, 2017
