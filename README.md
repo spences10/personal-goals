@@ -16,6 +16,8 @@ Personal goals for accountability!
 - [ ] Complete the [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
 - [ ] Learn more about CSS/Stylus
 - [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
+- [ ] Git global `.gitignore` files
+- [ ] Git global config, aliases
 
 ### March 20, 2017
 
