@@ -9,7 +9,13 @@ Personal goals for accountability!
 3. Build a good portfolio of example web projects 
 4. Personal Site - Personal Portfolio
 
-### March 27, 2017
+### 2017 April 04
+
+#### Things I'll do This Week:
+
+- [ ] React tutorial https://facebook.github.io/react/tutorial/tutorial.html
+
+### 2017 March 27
 
 #### Things I'll do This Week:
 
@@ -20,7 +26,7 @@ Personal goals for accountability!
 - [ ] Git global `.gitignore` files
 - [ ] Git global config, aliases
 
-### March 20, 2017
+### 2017 March 20
 
 #### Things I'll do This Week:
 
@@ -28,7 +34,7 @@ Personal goals for accountability!
 - [x] Progress personal portfolio page in react
 - [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 
-### March 13, 2017
+### 2017 March 13
 
 #### Things I'll do This Week:
 
