@@ -14,13 +14,16 @@ Personal goals for accountability!
 #### Things I'll do This Week:
 
 - [ ] React tutorial https://facebook.github.io/react/tutorial/tutorial.html
+- [ ] Progress the react portfolio page
+- [ ] Git global `.gitignore` files
+- [ ] Git global config, aliases
 
 ### 2017 March 27
 
 #### Things I'll do This Week:
 
-- [ ] Progress teh react portfolio page
-- [ ] Complete the [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
+- [x] Progress teh react portfolio page
+- [x] Complete the [Tutorial: Intro To React](https://facebook.github.io/react/tutorial/tutorial.html)
 - [x] Learn more about CSS/Stylus
 - [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 - [ ] Git global `.gitignore` files
