@@ -30,6 +30,7 @@ Personal goals for accountability!
 - [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 - [ ] Git global `.gitignore` files
 - [ ] Git global config, aliases
+- [ ] ES6 cheat sheet
 
 ### 2017 March 20
 
