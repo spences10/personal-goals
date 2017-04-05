@@ -17,8 +17,8 @@ Personal goals for accountability!
 - [ ] React online training https://online.reacttraining.com/courses/enrolled/50507
 - [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 - [ ] Progress the react portfolio page
-- [ ] Git global `.gitignore` files
-- [ ] Git global config, aliases
+- [x] Git global `.gitignore` files
+- [x] Git global config, aliases
 
 ### 2017 March 27
 
