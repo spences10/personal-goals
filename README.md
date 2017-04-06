@@ -30,13 +30,14 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 
 - [ ] React online training https://online.reacttraining.com/courses/enrolled/50507
 - [ ] Progress the react portfolio page
+- [ ] Take a look at [A workshop for ReactJS](https://github.com/fabe/react-portfolio)
 
 ### 2017 April 03
 
 **Things I'll do This Week:**
 
 - [x] React tutorial https://facebook.github.io/react/tutorial/tutorial.html
-- [ ] React online training https://online.reacttraining.com/courses/enrolled/50507
+- [x] React online training https://online.reacttraining.com/courses/enrolled/50507 <= this appears to be quite old, I'm going to continue the course but I'm not sure how useful it's going to be
 - [ ] Progress the react portfolio page
 - [x] Git global `.gitignore` files
 - [x] Git global config, aliases
