@@ -24,13 +24,19 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 - [ ] Update blog to use ~~Harp or Hexo~~ [Gatsby](https://github.com/gatsbyjs/gatsby)
 - [ ] Cherry pick from [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
+### 2017 April 10
+
+**Things I'll do This Week:**
+
+- [ ] React online training https://online.reacttraining.com/courses/enrolled/50507
+- [ ] Progress the react portfolio page
+
 ### 2017 April 03
 
 **Things I'll do This Week:**
 
 - [x] React tutorial https://facebook.github.io/react/tutorial/tutorial.html
 - [ ] React online training https://online.reacttraining.com/courses/enrolled/50507
-- [ ] Progress [reacttraining.com](https://online.reacttraining.com/courses/50507/lectures/841119#/questions/2)
 - [ ] Progress the react portfolio page
 - [x] Git global `.gitignore` files
 - [x] Git global config, aliases
