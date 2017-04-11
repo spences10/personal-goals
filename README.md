@@ -6,7 +6,7 @@ This is where I am keeping a log of what I want to achieve, I'll log weekly task
 
 ## Goals for 2017:
 
-1. JavaScript - learn it (simples!)
+1. JavaScript - learn it (simples!) :sunglasses:
 2. Complete freeCodeCamp(:fire:)
 3. Build a good portfolio of example web projects 
 4. Personal Site - Personal Portfolio
@@ -31,7 +31,8 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 - [ ] React online training https://online.reacttraining.com/courses/enrolled/50507
 - [ ] Progress the react portfolio page
 - [ ] Take a look at [A workshop for ReactJS](https://github.com/fabe/react-portfolio)
-- [ ] es6 syntax with node.js
+- [x] es6 syntax with node.js
+- [ ] testing with Jest :black_joker:
 
 ### 2017 April 03
 
