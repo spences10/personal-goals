@@ -35,7 +35,7 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 **Plan for this week:**
 
 - [ ] Twitter bot sentiment detection
-- [ ] Write some better tests for the Twitter bot
+- [ ] Write tests for the Twitter bot, learn more about testing
 
 ### 2017 April 10
 
