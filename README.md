@@ -24,6 +24,19 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 - [ ] Update blog to use ~~Harp or Hexo~~ [Gatsby](https://github.com/gatsbyjs/gatsby)
 - [ ] Cherry pick from [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
+### 2017 April 17
+
+**What I didn't finish last week**
+
+- [ ] React online training https://online.reacttraining.com/courses/enrolled/50507
+- [ ] Progress the react portfolio page
+- [ ] Take a look at [A workshop for ReactJS](https://github.com/fabe/react-portfolio)
+
+**Plan for this week:**
+
+- [ ] Twitter bot sentiment detection
+- [ ] Write some better tests for the Twitter bot
+
 ### 2017 April 10
 
 **Things I'll do This Week:**
@@ -32,7 +45,7 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 - [ ] Progress the react portfolio page
 - [ ] Take a look at [A workshop for ReactJS](https://github.com/fabe/react-portfolio)
 - [x] es6 syntax with node.js
-- [ ] testing with Jest :black_joker:
+- [x] testing with Jest :black_joker:
 
 ### 2017 April 03
 
