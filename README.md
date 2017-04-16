@@ -35,7 +35,9 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 **Plan for this week:**
 
 - [ ] Twitter bot sentiment detection
+- [ ] Twitter bot re-tweet functionality with `twitter` package
 - [ ] Write tests for the Twitter bot, learn more about testing
+- [ ] Check out [Prettier](https://github.com/prettier/prettier)
 
 ### 2017 April 10
 
