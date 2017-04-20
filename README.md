@@ -39,6 +39,7 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 **Plan for this week:**
 
 - [ ] ~~Twitter bot sentiment detection~~
+- [x] Twitter bot in **[ES6](https://github.com/spences10/twitter-bot-bootstrap/tree/dev-es6)** tweet function working
 - [ ] ~~Twitter bot re-tweet functionality with `twitter` package~~
 - [ ] ~~Write tests for the Twitter bot, learn more about testing~~
 - [x] Check out [Prettier](https://github.com/prettier/prettier)
