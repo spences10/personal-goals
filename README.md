@@ -6,13 +6,13 @@ This is where I am keeping a log of what I want to achieve, I'll log weekly task
 
 ## Goals for 2017:
 
-1. JavaScript - learn it (simples!) :sunglasses:
-2. Complete freeCodeCamp(:fire:)
-3. Build a good portfolio of example web projects 
-4. Personal Site - Personal Portfolio
-5. Build Office.js add-ins
+- JavaScript - learn it (simples!) :sunglasses:
+- Complete freeCodeCamp(:fire:)
+- Personal Site
+- Build Office.js add-ins
+  - Using [Office Fabric](https://dev.office.com/fabric#/get-started)
 
-**Things I'll Do in the Future:**
+**Things I'll do in the Future:**
 
 These tasks will be picked off of this list and added to the weekly tasks lists when I feel that I can complete them. [which basically means do before I'm distracted by the next new shiny]
 
@@ -20,6 +20,10 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 - [ ] Finish [JavaScript 30](https://javascript30.com/)
 - [ ] Calorie Counter React app
 - [ ] Create personal portfolio in React
+  - [ ] 1. Portfolio
+  - [ ] 2. Blog
+  - [ ] 3. CV
+  - [ ] 4. Hello
 - [ ] Twitch.tv project redone in React
 - [ ] Update blog to use ~~Harp or Hexo~~ [Gatsby](https://github.com/gatsbyjs/gatsby)
 - [ ] Cherry pick from [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
@@ -52,10 +56,23 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 
 **Plan for this week:**
 
+<<<<<<< HEAD
 - [ ] Twitter bot sentiment detection
 - [ ] Twitter bot re-tweet functionality with `twitter` package
 - [x] ~~Write tests for the Twitter bot~~, learn more about testing
 - [x] Check out [Prettier](https://github.com/prettier/prettier)
+=======
+- [ ] ~~Twitter bot sentiment detection~~
+- [x] Twitter bot in **[ES6](https://github.com/spences10/twitter-bot-bootstrap/tree/dev-es6)** tweet function working
+- [ ] ~~Twitter bot re-tweet functionality with `twitter` package~~
+- [ ] ~~Write tests for the Twitter bot, learn more about testing~~
+- [x] Check out [Prettier](https://github.com/prettier/prettier)
+
+**What I have done this week:**
+
+- [x] Learn redux [with Wes](https://github.com/spences10/learn-redux)
+- [ ] [Positivity tweetbot](https://github.com/spences10/positivity) to be fashioned into an express page
+>>>>>>> adda7b087b2af7afb58be20e5b92934ac23722ec
 
 ### 2017 April 10
 
