@@ -83,3 +83,6 @@
 - [x] Finish up code life balance
 - [ ] Learn more about CSS
 
+**Made it this far? Wow! :+1:**
+
+**[View README 👀](README.md#personal-goals)**
