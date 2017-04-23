@@ -1,4 +1,6 @@
-# 2017 April 24
+# This week
+
+## 2017 April 24
 
 **What I did do last week:**
 
@@ -15,3 +17,7 @@
 
 - [ ] Twitter bot sentiment detection
 - [ ] Twitter bot re-tweet functionality with `twitter` package
+
+**[View history 👵👴](history.md#history)**
+
+**[View README 👀](README.md#personal-goals)**

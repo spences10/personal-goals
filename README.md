@@ -4,9 +4,9 @@ Personal goals for accountability!
 
 This is where I am keeping a log of what I want to achieve, I'll log weekly tasks which I'll check off as they get completed, tasks that I have not got round to will added to the list for the next week.
 
-- **[Plan for this week](this-week.md)**
+- **[Plan for this week 👀](this-week.md#this-week)**
 
-- **[History](history.md)**
+- **[History 👵👴](history.md#history)**
 
 ## Goals for 2017:
 
