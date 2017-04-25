@@ -19,6 +19,10 @@
 - [ ] Twitter bot re-tweet functionality with `twitter` package
 - [x] React portfolio page map project onto portfolio
 
+**Thoughts:**
+
+Some random div appearing on the portfolio page, 
+
 **[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
