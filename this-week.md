@@ -17,6 +17,7 @@
 
 - [ ] Twitter bot sentiment detection
 - [ ] Twitter bot re-tweet functionality with `twitter` package
+- [x] React portfolio page map project onto portfolio
 
 **[View history 👵👴](history.md#history)**
 
