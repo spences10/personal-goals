@@ -3,6 +3,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 April 24](#2017-april-24)
   - [2017 April 17](#2017-april-17)
   - [2017 April 10](#2017-april-10)
   - [2017 April 03](#2017-april-03)
@@ -11,6 +12,31 @@
   - [2017 March 13](#2017-march-13)
 
 <!-- /TOC -->
+
+## 2017 April 24
+
+**What I did do last week:**
+
+- [x] Learn redux with Wes Bos
+- [x] Create react to-do app :+1:
+
+**What I didn't finish last week:**
+
+- [ ] ~~React online training https://online.reacttraining.com/courses/enrolled/50507~~
+- [ ] Progress the react portfolio page
+- [ ] ~~Take a look at [A workshop for ReactJS](https://github.com/fabe/react-portfolio)~~
+
+**Plan for this week:**
+
+- [ ] Twitter bot sentiment detection
+- [ ] Twitter bot re-tweet functionality with `twitter` package
+- [ ] Progress the react portfolio page
+
+**Thoughts 💭**
+
+Seems that the react online training and A workshop for react are pretty dated so for now I'm going to move onto something else less so.
+
+The twitter bot work is on hold for now as I can't get the retweet functionality to work
 
 ## 2017 April 17
 
