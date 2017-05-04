@@ -21,7 +21,7 @@ This is where I am keeping a log of what I want to achieve, I'll log weekly task
 These tasks will be picked off of this list and added to the weekly tasks lists when I feel that I can complete them. [which basically means do before I'm distracted by the next new shiny]
 
 - [ ] Finish [es6.io](https://es6.io)
-- [ ] Finish [JavaScript 30](https://javascript30.com/)
+- [x] Finish [JavaScript 30](https://javascript30.com/) **Finished 03/05/2017**
 - [ ] Calorie Counter React app
 - [ ] Create personal portfolio in React
   - [ ] 1. Portfolio
