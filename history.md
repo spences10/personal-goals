@@ -3,6 +3,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 May 01](#2017-may-01)
   - [2017 April 24](#2017-april-24)
   - [2017 April 17](#2017-april-17)
   - [2017 April 10](#2017-april-10)
@@ -12,6 +13,26 @@
   - [2017 March 13](#2017-march-13)
 
 <!-- /TOC -->
+
+## 2017 May 01
+
+**What I did do last week:**
+
+- [x] Creating an Open Source JavaScript Library
+- [x] Progress the react portfolio page
+
+**What I didn't finish last week:**
+
+- [ ] Twitter bot sentiment detection
+- [ ] Twitter bot re-tweet functionality with `twitter` package
+
+**Plan for this week:**
+
+- [x] JavaScript30 - all done 😀
+
+**Thoughts 💭**
+
+Decided to churn my way through JavaScript30 a lot of the lessons I revisited but it was well worth it learned a lot [again maybe]
 
 ## 2017 April 24
 
