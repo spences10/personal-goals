@@ -10,9 +10,11 @@
 
 **Plan for this week:**
 
-- [ ] Repurpose the [`twitter-bot-playground`][twit-bot-playground] repo 
+- [x] Repurpose the [`twitter-bot-playground`][twit-bot-playground] repo 
 - [ ] Learn node
-- [ ] Trypescript https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
+- [ ] [TypeScript React Starter][ts-react-starter]
+- [x] Worked on [ArcherBot][archerbot]
+  * Like functionality
 
 **Thoughts 💭**
 
@@ -26,3 +28,5 @@ The Twitter bot tutorials I followed from [egghead.io][egghead-twitter-bot-cours
 [twit-bot-playground]: https://github.com/spences10/twitter-bot-playground.git
 [egghead-twitter-bot-course]: https://egghead.io/courses/create-your-own-twitter-bots
 [twitter-bot-bootstrap]: https://github.com/spences10/twitter-bot-bootstrap#twitter-bot-bootstrap
+[ts-react-starter]: https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
+[aecher-bot]: https://github.com/spences10/archer-twitter-bot
