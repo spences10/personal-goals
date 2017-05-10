@@ -12,6 +12,7 @@
 
 - [ ] Repurpose the [`twitter-bot-playground`][twit-bot-playground] repo 
 - [ ] Learn node
+- [ ] Trypescript https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
 
 **Thoughts 💭**
 
