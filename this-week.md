@@ -15,6 +15,7 @@
 - [ ] [TypeScript React Starter][ts-react-starter]
 - [x] Worked on [ArcherBot][archerbot]
   * Like functionality
+- [x] Start Learn Node w/ @WesBos
 
 **Thoughts 💭**
 
