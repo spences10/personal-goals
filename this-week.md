@@ -30,4 +30,4 @@ The Twitter bot tutorials I followed from [egghead.io][egghead-twitter-bot-cours
 [egghead-twitter-bot-course]: https://egghead.io/courses/create-your-own-twitter-bots
 [twitter-bot-bootstrap]: https://github.com/spences10/twitter-bot-bootstrap#twitter-bot-bootstrap
 [ts-react-starter]: https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
-[aecher-bot]: https://github.com/spences10/archer-twitter-bot
+[aecherbot]: https://github.com/spences10/archer-twitter-bot
