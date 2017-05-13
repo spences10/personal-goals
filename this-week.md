@@ -11,7 +11,6 @@
 **Plan for this week:**
 
 - [x] Repurpose the [`twitter-bot-playground`][twit-bot-playground] repo 
-- [ ] Learn node
 - [ ] [TypeScript React Starter][ts-react-starter]
 - [x] Worked on [ArcherBot][archerbot]
   * Like functionality
