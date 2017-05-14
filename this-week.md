@@ -10,7 +10,7 @@
 
 **Plan for this week:**
 
-- [x] Repurpose the [`twitter-bot-playground`][twit-bot-playground] repo 
+- [x] Repurpose the [`twitter-bot-playground`][twit-bot-playground] repo
 - [ ] [TypeScript React Starter][ts-react-starter]
 - [x] Worked on [ArcherBot][archerbot]
   * Like functionality
@@ -19,6 +19,8 @@
 **Thoughts 💭**
 
 The Twitter bot tutorials I followed from [egghead.io][egghead-twitter-bot-course] I would recommend 👌, I have been struggling with my next iteration of the [Twitter bot boot strap][twitter-bot-bootstrap] and this course really helped with some of the fundamentals of the Twitter API.
+
+The [`twitter-bot-playground`][twit-bot-playground] was pretty good to deploy to `now` rather than `Heroku` admittedly I spent way too long trying to debug an issue that was just some similarlyy named vars.
 
 **[View history 👵👴](history.md#history)**
 
