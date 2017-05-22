@@ -1,13 +1,11 @@
 # This week
 
-## 2017 May 15
+## 2017 May 22
 
 **What I did do last week:**
 
-- [x] Repurpose the [`twitter-bot-playground`][twit-bot-playground] repo
-- [x] Worked on [ArcherBot][archerbot]
-  * Like functionality
-- [x] Start Learn Node w/ @WesBos
+- [x] Writeup for [`twitter-bot-playground`][twit-bot-playground] repo
+- [x] Personal site on `now`
 
 **What I didn't finish last week:**
 
@@ -15,12 +13,16 @@
 
 **Plan for this week:**
 
-- [ ] Writeup for [`twitter-bot-playground`][twit-bot-playground] repo
-- [ ] [TypeScript React Starter][ts-react-starter]
+- [ ] [Node basics][node-basics] with Emanuel Quimper
 - [ ] Progress Learn Node w/ @WesBos
-- [ ] Personal site on `now`
 
 **Thoughts 💭**
+
+Twitter bot playground was a pretty big writeup, I started the TypeScript react starter but need to get back to it.
+
+With regard to the Wes Bos NodeJS course I keep getting errors on compass still waiting to hear back from the support team after giving feedback.
+
+`now` I'm loving `zeit` and all their awesomeness 👍👌
 
 
 **[View history 👵👴](history.md#history)**
@@ -29,7 +31,5 @@
 
 <!-- links -->
 [twit-bot-playground]: https://github.com/spences10/twitter-bot-playground.git
-[egghead-twitter-bot-course]: https://egghead.io/courses/create-your-own-twitter-bots
-[twitter-bot-bootstrap]: https://github.com/spences10/twitter-bot-bootstrap#twitter-bot-bootstrap
-[ts-react-starter]: https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
-[aecherbot]: https://github.com/spences10/archer-twitter-bot
+[ts-react-starter]:  https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
+[node-basics]: https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV
