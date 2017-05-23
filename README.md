@@ -25,11 +25,11 @@ These tasks will be picked off of this list and added to the weekly tasks lists 
 - [ ] Calorie Counter React app
 - [ ] Create personal portfolio in React
   - [ ] 1. Portfolio
-  - [ ] 2. Blog
+  - [x] 2. Blog
   - [ ] 3. CV
   - [ ] 4. Hello
 - [ ] Twitch.tv project redone in React
-- [ ] Update blog to use ~~Harp or Hexo~~ [Gatsby](https://github.com/gatsbyjs/gatsby)
+- [x] Update blog to use ~~Harp or Hexo~~ [Gatsby](https://github.com/gatsbyjs/gatsby)
 - [ ] Cherry pick from [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
 
