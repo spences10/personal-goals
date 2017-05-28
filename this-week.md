@@ -24,3 +24,5 @@ Nextjs is great, saved a load of time not messing around with react-router for l
 **[View README 👀](README.md#personal-goals)**
 
 <!-- links -->
+[ts-react-starter]:  https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
+[node-basics]: https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV
