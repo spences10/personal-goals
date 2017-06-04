@@ -1,32 +1,33 @@
 # This week
 
-## 2017 May 29
+## 2017 Jun 05
 
 **What I did do last week:**
 
-- [x] Played with styled components and nextjs
-- [x] New iteration of the [`twitterbot bootstrap`][twee-bo-boo]
+- [x] Added posts to [my blog][blog]
+- [x] Git [aliases medium post][git-med-alias]
+- [x] [Just starting out with git?][git-start]
+
 
 **What I didn't finish last week:**
-
-- [ ] [TypeScript React Starter][ts-react-starter]
-
-**Plan for this week:**
 
 - [ ] [Node basics][node-basics] with Emanuel Quimper
 - [ ] Progress Learn Node w/ @WesBos
 
+**Plan for this week:**
+
+- [] More twitter bot work
+
 **Thoughts 💭**
 
-Nextjs is great, saved a load of time not messing around with react-router for links, the TypeScript react starter all went a bit shit and I lost interest with it.
-
-For some reason I'm really struggling with both the node courses I'm doing, both great content but I just seem to have little to no interest once things go a bit wrong, I haven't gone back to the Wes Bos course since Compass started playing up, I think I may have left it too long now to pick up again and should probably start again. 
+The styled-jsx change I was hoping for wasn't added to next so I couldn't progress my portfolio page any further. Not feeling the learn node courses, EQuimpers one I have issues with posting via postman to the mongodb server so got frustrated with that. The Wes Bos course I haven't gone near singe Compass failed on the data visualization section the team behind it aren't very responsive or descriptive when it comes to letting you know what the issue is and if it's being fixed, so got frustrated and lost interest with that as well.
 
 **[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
 
 <!-- links -->
-[ts-react-starter]:  https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md
 [node-basics]: https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV
-[twee-bo-boo]: https://github.com/spences10/twitter-bot-bootstrap
+[blog]: https://blog.scottspence.me/
+[git-med-alias]: https://hackernoon.com/moving-from-beginner-to-slightly-more-advanced-git-with-aliases-89e30a6accf4
+[git-start]: https://hackernoon.com/just-starting-out-with-git-and-github-it-gets-easier-honest-c4fabc93c11
