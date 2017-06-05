@@ -17,6 +17,8 @@
 **Plan for this week:**
 
 - [] More twitter bot work
+- [x] Join [Chingu-cohorts][cc]
+  - [] Write Chingu-cohorts intro
 
 **Thoughts 💭**
 
@@ -31,3 +33,4 @@ The styled-jsx change I was hoping for wasn't added to next so I couldn't progre
 [blog]: https://blog.scottspence.me/
 [git-med-alias]: https://hackernoon.com/moving-from-beginner-to-slightly-more-advanced-git-with-aliases-89e30a6accf4
 [git-start]: https://hackernoon.com/just-starting-out-with-git-and-github-it-gets-easier-honest-c4fabc93c11
+[cc]: https://github.com/Chingu-cohorts
