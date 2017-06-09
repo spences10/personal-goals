@@ -18,7 +18,8 @@
 
 - [] More twitter bot work
 - [x] Join [Chingu-cohorts][cc]
-  - [] Write Chingu-cohorts intro
+  - [x] Write Chingu-cohorts intro
+- [x] Made some Learn Node progress
 
 **Thoughts 💭**
 
