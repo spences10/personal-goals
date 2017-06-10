@@ -21,6 +21,10 @@
   - [x] Write Chingu-cohorts intro
 - [x] Made some Learn Node progress
 
+**Unplanned**
+
+- [x] GraphQL with Apollo 
+
 **Thoughts 💭**
 
 The styled-jsx change I was hoping for wasn't added to next so I couldn't progress my portfolio page any further. Not feeling the learn node courses, EQuimpers one I have issues with posting via postman to the mongodb server so got frustrated with that. The Wes Bos course I haven't gone near singe Compass failed on the data visualization section the team behind it aren't very responsive or descriptive when it comes to letting you know what the issue is and if it's being fixed, so got frustrated and lost interest with that as well.
