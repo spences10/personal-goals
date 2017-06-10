@@ -29,6 +29,8 @@
 
 The styled-jsx change I was hoping for wasn't added to next so I couldn't progress my portfolio page any further. Not feeling the learn node courses, EQuimpers one I have issues with posting via postman to the mongodb server so got frustrated with that. The Wes Bos course I haven't gone near singe Compass failed on the data visualization section the team behind it aren't very responsive or descriptive when it comes to letting you know what the issue is and if it's being fixed, so got frustrated and lost interest with that as well.
 
+With GraphQL I don't understand how this works just yet, theres the `graphcool` package which you install then theres the `graphcool playground` where is the api? hosted locally I guess? There's a lot the [tutorial][gcl-tut] doesn't cover
+
 **[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
@@ -39,3 +41,4 @@ The styled-jsx change I was hoping for wasn't added to next so I couldn't progre
 [git-med-alias]: https://hackernoon.com/moving-from-beginner-to-slightly-more-advanced-git-with-aliases-89e30a6accf4
 [git-start]: https://hackernoon.com/just-starting-out-with-git-and-github-it-gets-easier-honest-c4fabc93c11
 [cc]: https://github.com/Chingu-cohorts
+[gcl-tut]: https://github.com/graphcool-examples/react-graphql/tree/master/quickstart-with-apollo
