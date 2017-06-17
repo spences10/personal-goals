@@ -25,7 +25,9 @@
 
 **Thoughts 💭**
 
+Made some ok progress with the Twitter bot filtered follow, still a bit to do with regard to scoring. `filtered-follow` will search a users timeline for keywords that are pulled from a gist.
 
+Was nice to meet all my cohorts, we're still discussing a way forward with what is going to be a slack bot
 
 **[View history 👵👴](history.md#history)**
 
