@@ -1,33 +1,27 @@
 # This week
 
-## 2017 Jun 12
+## 2017 Jun 19
 
 **What I did do last week:**
 
-- [x] Join [Chingu-cohorts][cc]
-  - [x] Write Chingu-cohorts intro
-- [x] Made some Learn Node progress
-- [x] [GraphQL with Apollo][gcl-tut]
+- [x] Twitter bot work
+- [x] Progress Learn Node w/ @WesBos
 
 **What I didn't finish last week:**
 
-- [] Twitter bot work
+- [] [Node basics][node-basics] with Emanuel Quimper
 
 **Plan for this week:**
 
-- [x] Twitter bot work
-- [] [Node basics][node-basics] with Emanuel Quimper
-- [x] Progress Learn Node w/ @WesBos
+- [] Start cohorts bot work
+- [] Twitter bot work, filtered follow
+- [] Progress Learn Node w/ @WesBos
 
 **Unplanned**
 
-Nothing unplanned this week, just coasting as I'm feeling pretty burnt out last week or so
 
 **Thoughts 💭**
 
-Made some ok progress with the Twitter bot filtered follow, still a bit to do with regard to scoring. `filtered-follow` will search a users timeline for keywords that are pulled from a gist.
-
-Was nice to meet all my cohorts, we're still discussing a way forward with what is going to be a slack bot
 
 **[View history 👵👴](history.md#history)**
 

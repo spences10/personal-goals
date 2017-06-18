@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Jun 12](#2017-jun-12)
   - [2017 Jun 05](#2017-jun-05)
   - [2017 May 29](#2017-may-29)
   - [2017 May 22](#2017-may-22)
@@ -23,6 +24,39 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Jun 12
+
+**What I did do last week:**
+
+- [x] Join [Chingu-cohorts][cc]
+  - [x] Write Chingu-cohorts intro
+- [x] Made some Learn Node progress
+- [x] [GraphQL with Apollo][gcl-tut]
+
+**What I didn't finish last week:**
+
+- [] Twitter bot work
+
+**Plan for this week:**
+
+- [x] Twitter bot work
+- [] [Node basics][node-basics] with Emanuel Quimper
+- [x] Progress Learn Node w/ @WesBos
+
+**Unplanned**
+
+Nothing unplanned this week, just coasting as I'm feeling pretty burnt out last week or so
+
+**Thoughts 💭**
+
+Made some ok progress with the Twitter bot filtered follow, still a bit to do with regard to scoring. `filtered-follow` will search a users timeline for keywords that are pulled from a gist.
+
+Was nice to meet all my cohorts, we're still discussing a way forward with what is going to be a slack bot
+
+<!-- links -->
+[cc]: https://github.com/Chingu-cohorts
+[gcl-tut]: https://github.com/graphcool-examples/react-graphql/tree/master/quickstart-with-apollo
 
 ## 2017 Jun 05
 
