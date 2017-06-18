@@ -15,13 +15,13 @@
 
 **Plan for this week:**
 
-- [] Twitter bot work
+- [x] Twitter bot work
 - [] [Node basics][node-basics] with Emanuel Quimper
-- [] Progress Learn Node w/ @WesBos
+- [x] Progress Learn Node w/ @WesBos
 
 **Unplanned**
 
-
+Nothing unplanned this week, just coasting as I'm feeling pretty burnt out last week or so
 
 **Thoughts 💭**
 
