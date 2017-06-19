@@ -22,6 +22,7 @@
 
 **Thoughts 💭**
 
+There's certainly a lot of bot frameworks out there! My cohorts and I seem unable to settle on a framwork 
 
 **[View history 👵👴](history.md#history)**
 
@@ -29,4 +30,3 @@
 
 <!-- links -->
 [cc]: https://github.com/Chingu-cohorts
-[gcl-tut]: https://github.com/graphcool-examples/react-graphql/tree/master/quickstart-with-apollo
