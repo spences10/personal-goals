@@ -1,29 +1,30 @@
 # This week
 
-## 2017 Jun 19
+## 2017 Jun 26
 
 **What I did do last week:**
 
-- [x] Twitter bot work
 - [x] Progress Learn Node w/ @WesBos
+- [x] Start cohorts bot work
 
 **What I didn't finish last week:**
 
 - [ ] [Node basics][node-basics] with Emanuel Quimper
+- [ ] Twitter bot work, filtered follow
 
 **Plan for this week:**
 
-- [x] Start cohorts bot work
+- [ ] Progress Learn Node w/ @WesBos
+- [ ] Progress cohorts bot work
 - [ ] Twitter bot work, filtered follow
-- [x] Progress Learn Node w/ @WesBos
 
 **Unplanned**
 
+
+
 **Thoughts 💭**
 
-Filtered follow is being a bit painful as I have to deal with promises 🙃
 
-There's certainly a lot of bot frameworks out there! My cohorts and I seem unable to settle on a framework, @a-sep and I have both had a look at the MS Botframework and so far this is the one which make the most sense to us, basically it has documentation you can follow :+1:
 
 **[View history 👵👴](history.md#history)**
 
@@ -31,3 +32,4 @@ There's certainly a lot of bot frameworks out there! My cohorts and I seem unabl
 
 <!-- links -->
 [cc]: https://github.com/Chingu-cohorts
+[node-basics]: https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV
