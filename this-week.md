@@ -9,13 +9,13 @@
 
 **What I didn't finish last week:**
 
-- [] [Node basics][node-basics] with Emanuel Quimper
+- [ ] [Node basics][node-basics] with Emanuel Quimper
 
 **Plan for this week:**
 
-- [] Start cohorts bot work
-- [] Twitter bot work, filtered follow
-- [] Progress Learn Node w/ @WesBos
+- [x] Start cohorts bot work
+- [ ] Twitter bot work, filtered follow
+- [x] Progress Learn Node w/ @WesBos
 
 **Unplanned**
 
