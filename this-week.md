@@ -19,10 +19,11 @@
 
 **Unplanned**
 
-
 **Thoughts 💭**
 
-There's certainly a lot of bot frameworks out there! My cohorts and I seem unable to settle on a framwork 
+Filtered follow is being a bit painful as I have to deal with promises 🙃
+
+There's certainly a lot of bot frameworks out there! My cohorts and I seem unable to settle on a framework, @a-sep and I have both had a look at the MS Botframework and so far this is the one which make the most sense to us, basically it has documentation you can follow :+1:
 
 **[View history 👵👴](history.md#history)**
 
