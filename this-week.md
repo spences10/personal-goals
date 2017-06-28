@@ -20,7 +20,7 @@
 
 **Unplanned**
 
-Looking into TypeScript
+Looking into TypeScript, trying to find a starter project or something that makes sense to me, nothing so far.
 
 **Thoughts 💭**
 
