@@ -14,17 +14,17 @@
 
 **Plan for this week:**
 
-- [ ] Progress Learn Node w/ @WesBos
+- [x] Progress Learn Node w/ @WesBos
 - [ ] Progress cohorts bot work
-- [ ] Twitter bot work, filtered follow
+- [x] Twitter bot work, filtered follow
 
 **Unplanned**
 
-
+Looking into TypeScript
 
 **Thoughts 💭**
 
-
+My cohorts have barely been in touch this week for the chingu challenge thing, I haven't done a great deal of work with the botbuilder stuff either though to be honest.
 
 **[View history 👵👴](history.md#history)**
 
