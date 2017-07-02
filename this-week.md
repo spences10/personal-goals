@@ -1,33 +1,26 @@
 # This week
 
-## 2017 Jun 26
+## 2017 Jul 03
 
 **What I did do last week:**
 
-- [x] Progress Learn Node w/ @WesBos
-- [x] Start cohorts bot work
+- [x] Finished 😢 Learn Node w/ @WesBos https://yummers.scottspence.me
+- [ ] Create a Twitter bot in TypeScript
 
 **What I didn't finish last week:**
 
 - [ ] [Node basics][node-basics] with Emanuel Quimper
-- [ ] Twitter bot work, filtered follow
 
 **Plan for this week:**
 
-- [x] Progress Learn Node w/ @WesBos - finished! https://yumers.scottspence.me
 - [ ] Progress cohorts bot work
-- [x] Twitter bot work, filtered follow
 
 **Unplanned**
-
-- [ ] Create a Twitter bot in TypeScript
 
 
 **Thoughts 💭**
 
-Looking into TypeScript, I found a starter project here: https://github.com/Microsoft/TypeScript-Node-Starter thanks to @AmanMittal :+1:.
-
-My cohorts have barely been in touch this week for the chingu challenge thing, I haven't done a great deal of work with the botbuilder stuff either though to be honest. I have found Microsoft Channel 9 and the Microsoft Virtual Academy though which are proving helpful.
+Watching the MVA on bot with Node, pretty neat, I quite like the Microsoft Virtual Academy.
 
 **[View history 👵👴](history.md#history)**
 
