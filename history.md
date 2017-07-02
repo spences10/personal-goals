@@ -5,6 +5,8 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Jun 26](#2017-jun-26)
+  - [2017 Jun 19](#2017-jun-19)
   - [2017 Jun 12](#2017-jun-12)
   - [2017 Jun 05](#2017-jun-05)
   - [2017 May 29](#2017-may-29)
@@ -24,6 +26,39 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Jun 26
+
+**What I did do last week:**
+
+- [x] Progress Learn Node w/ @WesBos
+- [x] Start cohorts bot work
+
+**What I didn't finish last week:**
+
+- [ ] [Node basics][node-basics] with Emanuel Quimper
+- [ ] Twitter bot work, filtered follow
+
+**Plan for this week:**
+
+- [x] Progress Learn Node w/ @WesBos - finished! https://yumers.scottspence.me
+- [ ] Progress cohorts bot work
+- [x] Twitter bot work, filtered follow
+
+**Unplanned**
+
+- [ ] Create a Twitter bot in TypeScript
+
+
+**Thoughts 💭**
+
+Looking into TypeScript, I found a starter project here: https://github.com/Microsoft/TypeScript-Node-Starter thanks to @AmanMittal :+1:.
+
+My cohorts have barely been in touch this week for the chingu challenge thing, I haven't done a great deal of work with the botbuilder stuff either though to be honest. I have found Microsoft Channel 9 and the Microsoft Virtual Academy though which are proving helpful.
+
+<!-- links -->
+[cc]: https://github.com/Chingu-cohorts
+[node-basics]: https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV
 
 ## 2017 Jun 19
 
