@@ -20,7 +20,7 @@
 
 **Thoughts 💭**
 
-Watching the MVA on bot with Node, pretty neat, I quite like the Microsoft Virtual Academy.
+Watching the MVA on bot with Node, pretty neat, I quite like the Microsoft Virtual Academy. All the code examples do not work so looks like something in the framework has changed, I'm pretty bummed out by this.
 
 With regard to TypeScript I have spent the best part of Sunday watching videos on how to migrate from JS to TS and felt completely overwhelmed, I'm trying to convert my current twitter bot playground over to TS and have managed to make a simple bot, I'm getting really hung up on what types to use that I'm making literally no progress in converting it all.
 
