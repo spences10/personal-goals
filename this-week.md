@@ -19,7 +19,7 @@ Try get some sort of backend sorted for the twitter bot
 
 **Thoughts 💭**
 
-
+Job interview on 20170710 👍 for something related to my current skillset but the possibility of moving into web related tech down the line.
 
 **[View history 👵👴](history.md#history)**
 
