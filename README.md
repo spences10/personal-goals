@@ -12,6 +12,7 @@ This is where I am keeping a log of what I want to achieve, I'll log weekly task
 
 - JavaScript - learn it (simples!) :sunglasses:
 - Complete freeCodeCamp(:fire:)
+  - possibly re start in a 100 days of code fashion
 - Personal Site
 - Build Office.js add-ins
   - Using [Office Fabric](https://dev.office.com/fabric#/get-started)
