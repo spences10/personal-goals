@@ -6,12 +6,15 @@
 
 - [x] Made a Settings repo https://github.com/spences10/settings
 - [x] Made a Tooling repo https://github.com/spences10/tooling
+- [x] Bearded Dragons Chingu finished
 
 **What I didn't finish last week:**
 
+- [ ] Twitter bot GraphQL backend (unfinished functionality)
 
 **Plan for this week:**
 
+- [ ] Get familiar with GraphQL, maybe add a bit of functionality to the twitter-bot-twit change I made last week 
 
 **Unplanned**
 
@@ -24,5 +27,4 @@
 **[View README 👀](README.md#personal-goals)**
 
 <!-- links -->
-[tsbook]: https://github.com/basarat/typescript-book
-[tsbookpr]: https://github.com/basarat/typescript-book/pull/302
+
