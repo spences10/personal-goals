@@ -21,6 +21,7 @@
 
 **Thoughts 💭**
 
+The guys at graphcool were really helpful in getting me set up with a backend API thank you to @nilan from graphcool for your perseverance sir!
 
 **[View history 👵👴](history.md#history)**
 
