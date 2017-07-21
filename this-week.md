@@ -21,7 +21,7 @@
 
 **Thoughts 💭**
 
-The guys at graphcool were really helpful in getting me set up with a backend API thank you to @nilan from graphcool for your perseverance sir!
+The guys at graphcool were really helpful in getting me set up with a backend API thank you to @nilan from graphcool for your perseverance sir! I now have a working example of a selective retweet now so the RT on stream feature can eventually go to the Twitter bot bootstrap
 
 **[View history 👵👴](history.md#history)**
 
