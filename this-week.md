@@ -18,6 +18,7 @@
 
 **Unplanned**
 
+- [x] Start Chingu Voyage
 
 **Thoughts 💭**
 
