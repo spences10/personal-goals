@@ -9,6 +9,7 @@
 
 **What I didn't finish last week:**
 
+- [ ] I want to get some Follower/Unfolloer information into graphcool, not planned but a thought whilst doing this.
 
 **Plan for this week:**
 
