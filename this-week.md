@@ -14,6 +14,7 @@
 
 **Unplanned:**
 
+- [ ] Started some work on the 100 days of code twitter bot, to use a GraphCool project to store the tweets
 
 **Thoughts 💭**
 
