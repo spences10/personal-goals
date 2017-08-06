@@ -35,7 +35,29 @@
 
 **What I did do last week:**
 
-- [x] Get familiar with GraphQL, maybe add a bit of functionality to the twitter-bot-twit change I made last week 
+- [x] Chungu voyage init :fire:
+
+**What I didn't finish last week:**
+
+**Plan for this week:**
+
+- [ ] Configure the RAN bootstrap for Chungus Voyage, for me this is getting a schema to work with the bootstrap
+
+**Unplanned:**
+
+- [ ] Started some work on the 100 days of code twitter bot, to use a GraphCool project to store the tweets
+
+**Thoughts 💭**
+
+We have taken on a massive challenge in our Chingus team with trying to get a React Apollo [GraphQL] and Next.js bootstrap stack up and running for out Sinlge Page Application
+
+The RAN stack is being problematic to take the existing functionality and map it to a new backend that we can use ourselves. It's becoming time-consuming and is holding the project up, issues have been raised, forum posts, posted, my patience getting tested.
+
+## 2017 Jul 24
+
+**What I did do last week:**
+
+- [x] Get familiar with GraphQL, maybe add a bit of functionality to the twitter-bot-twit change I made last week
 - [x] Start Chingu Voyage
 
 **What I didn't finish last week:**
@@ -74,7 +96,7 @@ Made a bit of progress on the Twiotter bot follower/unfollower function which st
 
 **Plan for this week:**
 
-- [x] Get familiar with GraphQL, maybe add a bit of functionality to the twitter-bot-twit change I made last week 
+- [x] Get familiar with GraphQL, maybe add a bit of functionality to the twitter-bot-twit change I made last week
 
 **Unplanned:**
 
@@ -267,7 +289,7 @@ Was nice to meet all my cohorts, we're still discussing a way forward with what 
 
 **Unplanned**
 
-- [x] GraphQL with Apollo 
+- [x] GraphQL with Apollo
 
 **Thoughts 💭**
 
@@ -303,7 +325,7 @@ With GraphQL I don't understand how this works just yet, theres the `graphcool` 
 
 Nextjs is great, saved a load of time not messing around with react-router for links, the TypeScript react starter all went a bit shit and I lost interest with it.
 
-For some reason I'm really struggling with both the node courses I'm doing, both great content but I just seem to have little to no interest once things go a bit wrong, I haven't gone back to the Wes Bos course since Compass started playing up, I think I may have left it too long now to pick up again and should probably start again. 
+For some reason I'm really struggling with both the node courses I'm doing, both great content but I just seem to have little to no interest once things go a bit wrong, I haven't gone back to the Wes Bos course since Compass started playing up, I think I may have left it too long now to pick up again and should probably start again.
 
 <!-- links -->
 [ts-react-starter]:  https://github.com/Microsoft/TypeScript-React-Starter/blob/master/README.md

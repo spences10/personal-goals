@@ -20,7 +20,7 @@
 
 We have taken on a massive challenge in our Chingus team with trying to get a React Apollo [GraphQL] and Next.js bootstrap stack up and running for out Sinlge Page Application
 
-The RAN stack is being problematic to take the existing functionality and map it to a new backent that we can use outselves.
+The RAN stack is being problematic to take the existing functionality and map it to a new backend that we can use ourselves. It's becoming time-consuming and is holding the project up, issues have been raised, forum posts, posted, my patience getting tested.
 
 
 **[View history 👵👴](history.md#history)**
