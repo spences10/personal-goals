@@ -5,7 +5,9 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Jul 31](#2017-jul-31)
   - [2017 Jul 24](#2017-jul-24)
+  - [2017 Jul 24](#2017-jul-24-1)
   - [2017 Jul 17](#2017-jul-17)
   - [2017 Jul 10](#2017-jul-10)
   - [2017 Jul 03](#2017-jul-03)
@@ -30,8 +32,7 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
-
-## 2017 Jul 24
+## 2017 Jul 31
 
 **What I did do last week:**
 
@@ -49,9 +50,25 @@
 
 **Thoughts 💭**
 
-We have taken on a massive challenge in our Chingus team with trying to get a React Apollo [GraphQL] and Next.js bootstrap stack up and running for out Sinlge Page Application
-
 The RAN stack is being problematic to take the existing functionality and map it to a new backend that we can use ourselves. It's becoming time-consuming and is holding the project up, issues have been raised, forum posts, posted, my patience getting tested.
+
+## 2017 Jul 24
+
+**What I did do last week:**
+
+- [x] Chungu voyage init :fire:
+
+**What I didn't finish last week:**
+
+**Plan for this week:**
+
+- [ ] Configure the RAN bootstrap for Chungus Voyage, for me this is getting a schema to work with the bootstrap
+
+**Unplanned:**
+
+**Thoughts 💭**
+
+We have taken on a massive challenge in our Chingus team with trying to get a React Apollo [GraphQL] and Next.js bootstrap stack up and running for out Sinlge Page Application
 
 ## 2017 Jul 24
 
