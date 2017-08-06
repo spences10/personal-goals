@@ -1,27 +1,24 @@
 # This week
 
-## 2017 Jul 24
+## 2017 Aug 07
 
 **What I did do last week:**
 
-- [x] Chungu voyage init :fire:
+- [x] nothing!
 
 **What I didn't finish last week:**
 
 **Plan for this week:**
 
 - [ ] Configure the RAN bootstrap for Chungus Voyage, for me this is getting a schema to work with the bootstrap
+- [ ] 100 days of code twitter bot, to use a GraphCool project to store the tweets
 
 **Unplanned:**
 
-- [ ] Started some work on the 100 days of code twitter bot, to use a GraphCool project to store the tweets
 
 **Thoughts 💭**
 
-We have taken on a massive challenge in our Chingus team with trying to get a React Apollo [GraphQL] and Next.js bootstrap stack up and running for out Sinlge Page Application
-
-The RAN stack is being problematic to take the existing functionality and map it to a new backend that we can use ourselves. It's becoming time-consuming and is holding the project up, issues have been raised, forum posts, posted, my patience getting tested.
-
+I seem to have missed a week! 🙃 The situation is RAN stack we need configured for the Chungus voyage project is being blocked until we get a backend up and running I'm finding it quite frustrating at the moment. The 100 days of code bot is getting some love because I can't move forward with the Chingus project.
 
 **[View history 👵👴](history.md#history)**
 
