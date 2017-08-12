@@ -15,10 +15,13 @@
 
 **Unplanned:**
 
+- [x] [howtographql.com](howtographql.com) really useful! https://github.com/spences10/hackernews-react-apollo demo here: https://hnc.scottspence.me/
 
 **Thoughts 💭**
 
 I seem to have missed a week! 🙃 The situation is RAN stack we need configured for the Chungus voyage project is being blocked until we get a backend up and running I'm finding it quite frustrating at the moment. The 100 days of code bot is getting some love because I can't move forward with the Chingus project.
+
+I decided to do the hacker news clone as part of the how to graphql tutorial, was an eye opener.
 
 **[View history 👵👴](history.md#history)**
 
