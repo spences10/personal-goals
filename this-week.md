@@ -18,7 +18,7 @@
 
 **Thoughts 💭**
 
-Looks like the issues we were having with the RAN boilerplate were resolved in a recent PR, just a case of merging and seeing if were have something to work with. ;+1:
+Looks like the issues we were having with the RAN boilerplate were resolved in a recent PR, just a case of merging and seeing if were have something to work with. :+1:
 
 **[View history 👵👴](history.md#history)**
 
