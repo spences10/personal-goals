@@ -1,10 +1,10 @@
 # This week
 
-## 2017 Aug 21
+## 2017 Aug 28
 
 **What I did do last week:**
 
-- [x] Nothing completed
+- [x] Relax
 
 **What I didn't finish last week:**
 
@@ -18,7 +18,7 @@
 
 **Thoughts 💭**
 
-The last several weeks have been pretty stressful with work and I have had a load of anxiety around several unfinished projects I have going, feeling pretty burnt out generally
+Good times :palm_tree: :shell: 🏖️😎
 
 **[View history 👵👴](history.md#history)**
 
