@@ -5,7 +5,8 @@
 <!-- TOC -->
 
 - [History](#history)
-  - [2017 Aug 14](#2017-aug-14)
+  - [2017 Aug 21](#2017-aug-21)
+  - [2017 Aug 14](#2017-aug-14)
   - [2017 Aug 07](#2017-aug-07)
   - [2017 Jul 31](#2017-jul-31)
   - [2017 Jul 24](#2017-jul-24)
@@ -34,6 +35,26 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Aug 21
+
+**What I did do last week:**
+
+- [x] Nothing completed
+
+**What I didn't finish last week:**
+
+**Plan for this week:**
+
+- [ ] Go to Cyprus for x2 weeks
+- [ ] Relax
+
+**Unplanned:**
+
+
+**Thoughts 💭**
+
+The last several weeks have been pretty stressful with work and I have had a load of anxiety around several unfinished projects I have going, feeling pretty burnt out generally
 
 ## 2017 Aug 14
 
