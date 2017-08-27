@@ -47,7 +47,7 @@
 **Plan for this week:**
 
 - [ ] Go to Cyprus for x2 weeks
-- [ ] Relax
+- [x] Relax
 
 **Unplanned:**
 
