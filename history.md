@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Aug 28](#2017-aug-28)
   - [2017 Aug 21](#2017-aug-21)
   - [2017 Aug 14](#2017-aug-14)
   - [2017 Aug 07](#2017-aug-07)
@@ -35,6 +36,26 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Aug 28
+
+**What I did do last week:**
+
+- [x] Relax
+
+**What I didn't finish last week:**
+
+**Plan for this week:**
+
+- [x] Go to Cyprus for x2 weeks
+- [x] Relax
+
+**Unplanned:**
+
+
+**Thoughts 💭**
+
+Good times :palm_tree: :shell: 🏖️😎
 
 ## 2017 Aug 21
 
