@@ -1,6 +1,6 @@
 # This week
 
-## 2017 Aug 28
+## 2017 Sep 04
 
 **What I did do last week:**
 
@@ -10,8 +10,7 @@
 
 **Plan for this week:**
 
-- [ ] Go to Cyprus for x2 weeks
-- [ ] Relax
+- [ ] Get HuddleHunt up and running!
 
 **Unplanned:**
 
