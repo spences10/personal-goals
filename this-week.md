@@ -1,6 +1,6 @@
 # This week
 
-## 2017 Sep 04
+## 2017 Sep 11
 
 **What I did do last week:**
 
@@ -8,19 +8,18 @@
 
 **What I didn't finish last week:**
 
+- [ ] Get HuddleHunt up and running!
+
 **Plan for this week:**
 
 - [ ] Get HuddleHunt up and running!
 
 **Unplanned:**
 
-- [ ] Terrible first few days back at work
 
 **Thoughts 💭**
 
-Good times :palm_tree: :shell: 🏖️
-
-Holiday was the best! Getting back to work wasn't! The working situation has changed on the current contract with the client adding unnecessary requests on my time making it pretty poor working environment, that coupled with the work being menial it's not a great place to be right now.
+First full week back at it now after a few weeks break for a holiday 👌, this week there's a need to focus on getting something rolling wih HuddleHunt we have been pretty bogged down with the boilerplate we're using and we're beginning to wonder if it will be less time consuming if we use something different.
 
 **[View history 👵👴](history.md#history)**
 
