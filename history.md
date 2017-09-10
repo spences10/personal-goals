@@ -5,9 +5,10 @@
 <!-- TOC -->
 
 - [History](#history)
-  - [2017 Aug 28](#2017-aug-28)
-  - [2017 Aug 21](#2017-aug-21)
-  - [2017 Aug 14](#2017-aug-14)
+  - [2017 Sep 04](#2017-sep-04)
+  - [2017 Aug 28](#2017-aug-28)
+  - [2017 Aug 21](#2017-aug-21)
+  - [2017 Aug 14](#2017-aug-14)
   - [2017 Aug 07](#2017-aug-07)
   - [2017 Jul 31](#2017-jul-31)
   - [2017 Jul 24](#2017-jul-24)
@@ -36,6 +37,29 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Sep 04
+
+**What I did do last week:**
+
+- [x] Relax
+
+**What I didn't finish last week:**
+
+**Plan for this week:**
+
+- [ ] Get HuddleHunt up and running!
+
+**Unplanned:**
+
+- [ ] Terrible first few days back at work
+
+**Thoughts 💭**
+
+Good times :palm_tree: :shell: 🏖️
+
+Holiday was the best! Getting back to work wasn't! The working situation has changed on the current contract with the client adding unnecessary requests on my time making it pretty poor working environment, that coupled with the work being menial it's not a great place to be right now.
+
 
 ## 2017 Aug 28
 
