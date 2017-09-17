@@ -55,6 +55,7 @@
 
 **Unplanned:**
 
+- [x] Did a bit of work on https://github.com/spences10/characters-from-password
 
 **Thoughts 💭**
 
