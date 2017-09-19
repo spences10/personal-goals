@@ -26,6 +26,8 @@ I can understand he will be under a fair bit of pressure both from himself start
 
 With this [unnecessary] pressure from my client and with returning from holiday the last seven days hav been a bit of a shock to the system, I haven't wanted to get out of bed of a mornings and in the evenings I'm pretty bummed out from work.
 
+**Update for 18/09/2017:** I had my contract cut short from my current client, I'm now looking for a new client.
+
 Plan for this week
 
 **[View history 👵👴](history.md#history)**
