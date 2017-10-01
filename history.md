@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Sep 25](#2017-sep-25)
   - [2017 Sep 18](#2017-sep-18)
   - [2017 Sep 11](#2017-sep-11)
   - [2017 Sep 04](#2017-sep-04)
@@ -39,6 +40,39 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Sep 25
+
+**What I did do last week:**
+
+- [x] Met with Tom to discuss HuddleHunt
+
+**What I didn't finish last week:**
+
+- [ ] Get HuddleHunt up and running!
+
+**Plan for this week:**
+
+- [ ] Get HuddleHunt up and running!
+
+**Unplanned:**
+
+- [x] Migrate to Gatsby v1+
+  * Need to get images working again, I seem to have broken it
+
+**Thoughts 💭**
+
+Now looking for work, I have an interview lined up for monday with an energy trader.
+
+It has been a really slow couple of weeks, partly because of the work situation partly because of burn out. Think I'm not on my third burn out of the year 🙃 it gets to a point where I feel completely overwhelmed with everything and as a result nothing happens.
+
+I'm hoping I can get back into the swing of things with concentrating on one piece of work at a time.
+
+**Update 20171001:** Spent the majority of my time putting my Gatsby site together and the rest of that getting familiar with different command line shells.
+
+With Windows Subsystem Linux you have an Ubuntu instance in your Windows machine I spent way too much time familiarising myself with bash, zsh and fish shell 🐚, by far my favourite is Fish mainly for the command intellisense 👌
+
+For the role I interviewed for on Monday I have been asked back for a second interview with another two candidates, no word on when this will be.
 
 ## 2017 Sep 18
 
