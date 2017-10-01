@@ -22,17 +22,7 @@
 
 **Thoughts 💭**
 
-Now looking for work, I have an interview lined up for monday with an energy trader.
-
-It has been a really slow couple of weeks, partly because of the work situation partly because of burn out. Think I'm not on my third burn out of the year 🙃 it gets to a point where I feel completely overwhelmed with everything and as a result nothing happens.
-
-I'm hoping I can get back into the swing of things with concentrating on one piece of work at a time.
-
-**Update 20171001:** Spent the majority of my time putting my Gatsby site together and the rest of that getting familiar with different command line shells.
-
-With Windows Subsystem Linux you have an Ubuntu instance in your Windows machine I spent way too much time familiarising myself with bash, zsh and fish shell 🐚, by far my favourite is Fish mainly for the command intellisense 👌
-
-For the role I interviewed for on Monday I have been asked back for a second interview with another two candidates, no word on when this will be.
+Reading through Deep Work by Cal Newport I understand where I may be going wrong with recent slumps in productivity and motivation, this along with a conversation with Wes Bos via his [ama](https://github.com/wesbos/ama/issues/188) I'm hoping I can start to turn things around again 😄
 
 **[View history 👵👴](history.md#history)**
 
