@@ -1,10 +1,11 @@
 # This week
 
-## 2017 Sep 25
+## 2017 Oct 02
 
 **What I did do last week:**
 
-- [x] Met with Tom to discuss HuddleHunt
+- [x] Migrate to Gatsby v1+
+  * Need to get images working again, I seem to have broken it
 
 **What I didn't finish last week:**
 
@@ -12,12 +13,12 @@
 
 **Plan for this week:**
 
-- [ ] Get HuddleHunt up and running!
+- [ ] Gatsby images working for blog
+- [ ] Get the Dang That's Delicious back up and running as and example of using Google Maps and geo location.
+- [ ] Twitter bot issues cleaned up
 
 **Unplanned:**
 
-- [x] Migrate to Gatsby v1+
-  * Need to get images working again, I seem to have broken it
 
 **Thoughts 💭**
 
