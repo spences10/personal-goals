@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Oct 09](#2017-oct-09)
   - [2017 Oct 02](#2017-oct-02)
   - [2017 Sep 25](#2017-sep-25)
   - [2017 Sep 18](#2017-sep-18)
@@ -41,6 +42,45 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Oct 09
+
+**What I did do last week:**
+
+- [x] Gatsby images working for blog
+  * `inline` code highlighting not working
+  * some styling
+- [x] Get the Dang That's Delicious back up and running as and example of using Google Maps and geo location.
+- [x] Twitter bot issues cleaned up
+
+**What I didn't finish last week:**
+
+- [ ] Get HuddleHunt up and running!
+
+**Plan for this week:**
+
+- [ ] Twitter following to followers ratio page
+- [ ] Make some progress with a follow bot
+
+**Unplanned:**
+
+- [ ] Getting started with Express
+
+**Thoughts 💭**
+
+Last week was relatively productive, I got quite a few things finished and feel like and getting some momentum back.
+
+This week I'd like to get a few things done, make some progress with a Twitter follow bot, this is quite tricky as I usually always blow my API limit when developing on this sort of thing.
+
+I have a second [and final?] interview with the energy traders on Monday morning
+
+HuddleHunt although has taken a bit of a back seat I know Tom is still keen on getting it up and running whilst he's studying for his MBA 👍
+
+Second interview went well they wanted to make me an offer but the agent messed things up pretty bad, they gave me bad information about the role, I thought it was a Fixed Term Contract for six months and it turned out that it was actually a Day Rate instead, which was great for me as that was what I was after really.
+
+Thing is the recruiter obviously wanted their cut on the role and what they were offering was way below what I was willing to work for so I had to turn the role down 😢
+
+The stress of this and the back and fourth on the phone to the recruiter was a really stressful process and one I really don't like but understand that it's part of the process.
 
 ## 2017 Oct 02
 
