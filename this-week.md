@@ -1,37 +1,30 @@
 # This week
 
-## 2017 Oct 02
+## 2017 Oct 16
 
 **What I did do last week:**
 
-- [x] Gatsby images working for blog
-  * `inline` code highlighting not working
-  * some styling
-- [x] Get the Dang That's Delicious back up and running as and example of using Google Maps and geo location.
-- [x] Twitter bot issues cleaned up
+- [x] Configured Ubuntu in Windows Subsystem Linux (about six times)
 
 **What I didn't finish last week:**
 
-- [ ] Get HuddleHunt up and running!
+- [ ] Al the things
 
 **Plan for this week:**
 
-- [ ] Twitter following to followers ratio page
-- [ ] Make some progress with a follow bot
+- [ ] Finish Gatsby blog
 
 **Unplanned:**
 
-- [ ] Getting started with Express
+- [x] Getting started with Express
 
 **Thoughts 💭**
 
-Last week was relatively productive, I got quite a few things finished and feel like and getting some momentum back.
+Shitty week last week, the job situation is getting a bit worse now.
 
-This week I'd like to get a few things done, make some progress with a Twitter follow bot, this is quite tricky as I usually always blow my API limit when developing on this sort of thing.
+This week, Gatsby blog needs to happen, I have several posts which need to go in there, I can write them and wait but I think the cognitive stress of all the side projects I have is taking a toll so I need to focus on one aspect at a time.
 
-I have a second [and final?] interview with the energy traders on Monday morning
-
-HuddleHunt although has taken a bit of a back seat I know Tom is still keen on getting it up and running whilst he's studying for his MBA 👍
+I read a good Medium post on how to focus, I have taken a few things from that, one being the RescueTime software, I can use this along with the other metrics tools I have like WakaTime and CodeStats
 
 **[View history 👵👴](history.md#history)**
 
