@@ -61,6 +61,30 @@
 
 **Unplanned:**
 
+Thinking about adding this in now: 
+
+```
+ Week: 10 hours 34 minutes (Total)
+
+ JavaScript: 4 hours 39 minutes 44 seconds
+ JSON: 2 hours 1 minutes 16 seconds
+ CSS: 1 hours 27 minutes 7 seconds
+ Markdown: 1 hours 12 minutes 3 seconds
+ HTML: 0 hours 50 minutes 17 seconds
+ Other: 0 hours 31 minutes 36 seconds
+ TypeScript: 0 hours 0 minutes 8 seconds
+
+ scottspence.me: 3 hours 27 minutes 32 seconds
+ react-stopwatch: 3 hours 1 minutes 26 seconds
+ twitter-bot-bootstrap: 1 hours 50 minutes 20 seconds
+ babel-setup: 0 hours 52 minutes 20 seconds
+ cli-twitter-bot: 0 hours 43 minutes 23 seconds
+ spences10.github.io.react: 0 hours 21 minutes 47 seconds
+ running-cheerleader-bot: 0 hours 17 minutes 27 seconds
+ todo-react: 0 hours 4 minutes 12 seconds
+ awesome-twitter-bots: 0 hours 3 minutes 18 seconds
+ personal-goals: 0 hours 0 minutes 31 seconds
+```
 
 **Thoughts 💭**
 
