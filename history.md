@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Oct 23](#2017-oct-23)
   - [2017 Oct 16](#2017-oct-16)
   - [2017 Oct 09](#2017-oct-09)
   - [2017 Oct 02](#2017-oct-02)
@@ -43,6 +44,33 @@
 </details>
 
 **[View README 👀](README.md#personal-goals)**
+
+## 2017 Oct 23
+
+**What I did do last week:**
+
+- [x] Installed drivers
+
+**What I didn't finish last week:**
+
+- [ ] Al the things
+
+**Plan for this week:**
+
+- [ ] Finish Gatsby blog
+
+**Unplanned:**
+
+
+**Thoughts 💭**
+
+My main work machine has had to go back for RMA as it was still registering 'ghost' touches even after installing all the drivers supplied by ASUS support.
+
+I have spent the majority of the week attempting to salvage old laptops round the house we have for use with Linux Mint, the experience on a single core processor and 2GB of ram isn't for those short on patience.
+
+I have commandeered the family Surface Pro 4 until my machine comes back from RMA 
+
+I made an entry to the freeCodeCamp guides which will go toward Hacktober fest, so that's two remaining
 
 ## 2017 Oct 16
 
