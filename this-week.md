@@ -1,10 +1,10 @@
 # This week
 
-## 2017 Oct 23
+## 2017 Oct 30
 
 **What I did do last week:**
 
-- [x] Installed drivers
+- [x] 10hrs 31min of coding 🙃
 
 **What I didn't finish last week:**
 
@@ -19,13 +19,11 @@
 
 **Thoughts 💭**
 
-My main work machine has had to go back for RMA as it was still registering 'ghost' touches even after installing all the drivers supplied by ASUS support.
+Bit of a meh week really, looking at my coding activity would probably say otherwise but I don't feel that anything was actually accomplished.
 
-I have spent the majority of the week attempting to salvage old laptops round the house we have for use with Linux Mint, the experience on a single core processor and 2GB of ram isn't for those short on patience.
+Still on the list of unfinished is the Gatsby blog which I now have about several versions of, there's always some issue with either images or code formatting and one or the other works. I get frustrated and move onto something else I think I can do in the meantime...
 
-I have commandeered the family Surface Pro 4 until my machine comes back from RMA 
-
-I made an entry to the freeCodeCamp guides which will go toward Hacktober fest, so that's two remaining
+Have an interview on 30th with another insurer more than likely doing the same stuff as before with Chubb.
 
 **[View history 👵👴](history.md#history)**
 
