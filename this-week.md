@@ -16,6 +16,25 @@
 
 **Unplanned:**
 
+**Wakatime activit:y**
+
+```
+ Week: 9 hours 7 minutes (Total)
+
+ JavaScript: 5 hours 17 minutes 51 seconds
+ vue: 2 hours 51 minutes 18 seconds
+ Markdown: 0 hours 27 minutes 57 seconds
+ HTML: 0 hours 22 minutes 40 seconds
+ JSON: 0 hours 11 minutes 19 seconds
+ CSS: 0 hours 1 minutes 29 seconds
+
+ hackernuxt: 4 hours 52 minutes 7 seconds
+ characters-from-password: 3 hours 52 minutes 0 seconds
+ Unknown Project: 0 hours 16 minutes 36 seconds
+ your-first-pwapp-master: 0 hours 9 minutes 54 seconds
+ personal-goals: 0 hours 1 minutes 50 seconds
+ jamp: 0 hours 0 minutes 10 seconds
+```
 
 **Thoughts 💭**
 
