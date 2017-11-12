@@ -1,10 +1,10 @@
 # This week
 
-## 2017 Nov 06
+## 2017 Nov 13
 
 **What I did do last week:**
 
-- [x] 9hrs 7min of coding 🙃
+- [x] 5hrs 22min of coding 🙃
 
 **What I didn't finish last week:**
 
@@ -13,11 +13,11 @@
 **Plan for this week:**
 
 - [ ] Finish Gatsby blog
+- [ ] Finish Create Twitter Bot
 
 **Unplanned:**
 
-- [x] characters from password
-- [x] Hackernuxt
+- [ ] Create Twitter Bot
 
 **Wakatime activity:**
 
@@ -27,11 +27,11 @@
 
 **Thoughts 💭**
 
-From the two interviews last week I heard back about the contract role at the insurance brokers they felt that the other candidate articulated themselves better than myself sop went with them.
+Not a great week for coding last week but I got the Characters from Password 'sort of' finished with the help of a kind contributor for the styling.
 
-I'm not expecting to hear back from the other place I interviewed at [Barclays investors] anytime soon, these large organisations move at a glacial pace when it comes to the HR departments doing anything.
+This week I'd like to get the cli tool for making a twitter bot in a semi working state, I'm currently struggling with creating the `.env` files after gathering the API keys from the cli
 
-Completing the characters from password project was a big win for me as I struggled with it a while back and this time round I stuck with and finally got something to work, I still need to finish styling it now, which is another pain point for me, and another thing to work on 👍
+Once I have finished the CTB [create-twitter-bot] CLI I'd like to take another crack at the Lorem Ipsum API and generator I was intending to make but found that doing the Twitter Bot CLI is helping me understand a bit better what needs to go into the other tool
 
 **[View history 👵👴](history.md#history)**
 
