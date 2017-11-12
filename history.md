@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Nov 06](#2017-nov-06)
   - [2017 Oct 30](#2017-oct-30)
   - [2017 Oct 23](#2017-oct-23)
   - [2017 Oct 16](#2017-oct-16)
@@ -46,6 +47,59 @@
 
 **[View README 👀](README.md#personal-goals)**
 
+## 2017 Nov 06
+
+**What I did do last week:**
+
+- [x] 9hrs 7min of coding 🙃
+
+**What I didn't finish last week:**
+
+- [ ] Al the things
+
+**Plan for this week:**
+
+- [ ] Finish Gatsby blog
+
+**Unplanned:**
+
+- [x] characters from password
+- [x] Hackernuxt
+
+**Wakatime activity:**
+
+```
+ Week: 5 hours 22 minutes (Total)
+
+ JavaScript: 4 hours 53 minutes 38 seconds
+ JSON: 0 hours 23 minutes 4 seconds
+ Markdown: 0 hours 6 minutes 5 seconds
+ Other: 0 hours 2 minutes 53 seconds
+ Text: 0 hours 0 minutes 13 seconds
+ YAML: 0 hours 0 minutes 2 seconds
+
+ cli-twitter-bot: 3 hours 24 minutes 2 seconds
+ oi-api: 0 hours 48 minutes 6 seconds
+ twitter-bot-twit: 0 hours 20 minutes 19 seconds
+ twitter-bot-playground: 0 hours 18 minutes 7 seconds
+ github-user: 0 hours 10 minutes 24 seconds
+ characters-from-password: 0 hours 9 minutes 39 seconds
+ hall-and-oates-ipsum: 0 hours 7 minutes 14 seconds
+ cfromp: 0 hours 6 minutes 1 seconds
+ spenc: 0 hours 2 minutes 2 seconds
+```
+
+**Thoughts 💭**
+
+From the two interviews last week I heard back about the contract role at the insurance brokers they felt that the other candidate articulated themselves better than myself sop went with them.
+
+I'm not expecting to hear back from the other place I interviewed at [Barclays investors] anytime soon, these large organisations move at a glacial pace when it comes to the HR departments doing anything.
+
+Completing the characters from password project was a big win for me as I struggled with it a while back and this time round I stuck with and finally got something to work, I still need to finish styling it now, which is another pain point for me, and another thing to work on 👍
+
+UPDATE: Barclays had a telephone interview on Friday which went ok, I guess I was wrong about things moving slowly there 🙃
+
+The majority of my work this week has been with another idea that I have been toying with and have now got something sort of working, it's still very early days but things are coming together slowly.
 ## 2017 Oct 30
 
 **What I did do last week:**
