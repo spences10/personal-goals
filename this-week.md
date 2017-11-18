@@ -22,7 +22,19 @@
 **Wakatime activity:**
 
 ```
+ Week: 6 hours 58 minutes (Total)
 
+ JavaScript: 5 hours 35 minutes 30 seconds
+ Markdown: 0 hours 40 minutes 17 seconds
+ Other: 0 hours 29 minutes 7 seconds
+ JSON: 0 hours 16 minutes 25 seconds
+ Text: 0 hours 0 minutes 19 seconds
+
+ 100DaysOfCode-twitter-bot: 3 hours 58 minutes 49 seconds
+ create-twitter-bot: 2 hours 9 minutes 41 seconds
+ cli-twitter-bot: 0 hours 28 minutes 12 seconds
+ Unknown Project: 0 hours 13 minutes 18 seconds
+ personal-goals: 0 hours 11 minutes 38 seconds
 ```
 
 **Thoughts 💭**
