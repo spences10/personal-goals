@@ -47,6 +47,8 @@ Once I have finished the CTB [create-twitter-bot] CLI I'd like to take another c
 
 **20171118:** The Twitter bot CLI work continues I managed to get the `.env` file creation working along with moving it to the correct folder, there is still a fair bit of work to be done with it.
 
+***20171119:** Made some changes to the #100DaysOfCode twitter bot, changed the sentiment functionality as the old sentiment detection looks to have stopped working 
+
 **[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
