@@ -29,6 +29,8 @@
 
 **20171126:** No plans as yet, this isn't boding very well for me learning full stack web dev, the majority of the courses I have I have either stopped [freeCodeCamp] or am part way through [the-web-developer-bootcamp](https://www.udemy.com/the-web-developer-bootcamp) which I really should do but find I feel more productive completing my own projects that matter to me 🙃
 
+**20171202:** Two interviews this week, both went well, two interviews lined up for next week currently. One is a follow up from a telephone interview on Friday for a JavaScript developer the other for a VBA SQL Developer 
+
 **[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
