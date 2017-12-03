@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [History](#history)
+  - [2017 Nov 27](#2017-nov-27)
   - [2017 Nov 20](#2017-nov-20)
   - [2017 Nov 13](#2017-nov-13)
   - [2017 Nov 06](#2017-nov-06)
@@ -61,7 +62,7 @@
 
 **Plan for this week:**
 
-- [ ] Finish Gatsby blog, node gyp and sharp permitting
+- [ ] Finish Gatsby blog
 - [ ] Finish Create Twitter Bot CLI
 - [ ] Make unfollow inactive accounts bot
 
