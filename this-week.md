@@ -4,7 +4,7 @@
 
 **What I did do last week:**
 
-- [x] 25hrs 14min of coding 🙃 fixed WakaTime stats ~4hrs a day 👍
+- [x] spent way to much time trying to fix things
 
 **What I didn't finish last week:**
 
@@ -12,13 +12,14 @@
 
 **Plan for this week:**
 
-- [ ] Finish Gatsby blog
+- [ ] Finish Gatsby blog, node gyp and sharp permitting
 - [ ] Finish Create Twitter Bot CLI
 - [ ] Make unfollow inactive accounts bot
 
 **Unplanned:**
 
 - [x] delay-tweet
+- [x] 100DoC bot work
 
 **WakaTime activity:**
 
@@ -54,6 +55,8 @@
 **20171126:** No plans as yet, this isn't boding very well for me learning full stack web dev, the majority of the courses I have I have either stopped [freeCodeCamp] or am part way through [the-web-developer-bootcamp](https://www.udemy.com/the-web-developer-bootcamp) which I really should do but find I feel more productive completing my own projects that matter to me 🙃
 
 **20171202:** Two interviews this week, both went well, two interviews lined up for next week currently. One is a follow up from a telephone interview on Friday for a JavaScript developer the other for a VBA SQL Developer 
+
+**20171203:** Last week in review, I had a pretty hard time getting 'things' to work started with `semantic-release-cli` and `node-gyp` failing, this thing is a real ballache on windows - hence why I like to use WSL but it was still giving issues, I went on to spend the second half of the week trying to uninstall Docker then reinstall it. 
 
 **[View history 👵👴](history.md#history)**
 
