@@ -28,8 +28,12 @@ distracted by the next new shiny]
 * [x] Finish [es6.io](https://es6.io)
 * [x] Finish [JavaScript 30](https://javascript30.com/) **Finished 03/05/2017**
 * [ ] Calorie Counter React app
-* [ ] Create personal site in React _ [ ] 1. Portfolio _ [x] 2. Blog \* [ ] 3.
-      CV
+* [ ] Create personal site in React
+
+- [ ] 1. Portfolio
+- [x] 2. Blog
+- [ ] 3. CV
+
 * [ ] Twitch.tv project redone in React
 * [x] Update blog to use ~~Harp or Hexo~~
       [Gatsby](https://github.com/gatsbyjs/gatsby)
