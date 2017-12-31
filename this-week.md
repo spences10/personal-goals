@@ -1,12 +1,11 @@
 # This week
 
-## 2017 Dec 11
+## 2017 Dec 25
 
 **What I did do last week:**
 
-* [x] worked on personal site
-* [x] bought random domain youeven.online
-* [x] Started planning with the bears-16 team for the Chingi Voyage 3
+* [x] Chingu Voyage 3 grad.then work
+* [x] Blog work
 
 **What I didn't finish last week:**
 
@@ -14,54 +13,41 @@
 
 **Plan for this week:**
 
-* [x] Personal site worked on
+* [ ] finish blog
 
 **Unplanned:**
 
 **WakaTime activity:**
 
 ```
- Week: 33 hours 12 minutes (Total)
+ Week: 23 hours 4 minutes (Total)
 
- JavaScript: 26 hours 56 minutes 9 seconds
- Markdown: 2 hours 58 minutes 26 seconds
- JSON: 2 hours 28 minutes 29 seconds
- Other: 0 hours 44 minutes 16 seconds
- CSS: 0 hours 10 minutes 12 seconds
- Text: 0 hours 5 minutes 5 seconds
- TypeScript: 0 hours 0 minutes 45 seconds
+ JavaScript: 16 hours 37 minutes 41 seconds
+ Markdown: 4 hours 17 minutes 5 seconds
+ JSON: 1 hours 46 minutes 33 seconds
+ CSS: 0 hours 9 minutes 32 seconds
+ Other: 0 hours 8 minutes 12 seconds
+ Git Config: 0 hours 7 minutes 30 seconds
+ JSX: 0 hours 7 minutes 1 seconds
 
- grad.then: 14 hours 19 minutes 26 seconds
- scottspence.me: 11 hours 0 minutes 54 seconds
- styled-components-website: 3 hours 15 minutes 47 seconds
- bears-16: 2 hours 2 minutes 33 seconds
- chingu-twitter-bot: 1 hours 27 minutes 59 seconds
- twitter-job-stream: 0 hours 20 minutes 51 seconds
- 100DaysOfCode-twitter-bot: 0 hours 18 minutes 56 seconds
- cheat-sheets: 0 hours 18 minutes 10 seconds
- Unknown Project: 0 hours 11 minutes 21 seconds
- personal-goals: 0 hours 4 minutes 23 seconds
- delay-tweet: 0 hours 3 minutes 7 seconds
+ blog.scottspence.me: 18 hours 19 minutes 19 seconds
+ cheat-sheets: 1 hours 47 minutes 49 seconds
+ settings: 1 hours 3 minutes 24 seconds
+ grad.then: 0 hours 37 minutes 20 seconds
+ styled-components-website: 0 hours 37 minutes 4 seconds
+ Unknown Project: 0 hours 19 minutes 21 seconds
+ dotfiles: 0 hours 11 minutes 28 seconds
+ gatsby-starter-lumen: 0 hours 8 minutes 4 seconds
+ gatsby: 0 hours 5 minutes 59 seconds
+ personal-goals: 0 hours 3 minutes 48 seconds
 ```
 
 **Thoughts 💭**
 
-**20171210:** After shaking off the disappointment from the interview on Monday
-it's given me the drive to:
+**20171231:** Merry New Years eve!!!
 
-1. get my shit together before an interview
-1. finish one thing! my personal site
-1. FOCUS!!
-
-right now I'm dicking around trying to style a nav component, wtf! why do I
-struggle so much with this?
-
-**20171217:** Wow!! What a week, learning quite a lot about using
-`styled-components` 💅 with my other cohorts in Bears 🐻 16 team. This has been
-a great learning experience on working on a dev team on a project. I have was
-unanimously nominated PM by the other team members, I don't know why 🤷‍♂ but it
-has made me consider ll parts of a project before doing any development work. We
-have spent nearly a week trying to get all the components listed out.
+I seem to have lost a couple of weeks of logs, I nuked my machine the other day
+and have been configuring it ever since.
 
 **[View history 👵👴](history.md#history)**
 

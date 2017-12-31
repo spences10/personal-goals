@@ -4,52 +4,105 @@
   <summary>TOC</summary>
 <!-- TOC -->
 
-- [History](#history)
-  - [2017 Dec 11](#2017-dec-11)
-  - [2017 Dec 04](#2017-dec-04)
-  - [2017 Nov 27](#2017-nov-27)
-  - [2017 Nov 20](#2017-nov-20)
-  - [2017 Nov 13](#2017-nov-13)
-  - [2017 Nov 06](#2017-nov-06)
-  - [2017 Oct 30](#2017-oct-30)
-  - [2017 Oct 23](#2017-oct-23)
-  - [2017 Oct 16](#2017-oct-16)
-  - [2017 Oct 09](#2017-oct-09)
-  - [2017 Oct 02](#2017-oct-02)
-  - [2017 Sep 25](#2017-sep-25)
-  - [2017 Sep 18](#2017-sep-18)
-  - [2017 Sep 11](#2017-sep-11)
-  - [2017 Sep 04](#2017-sep-04)
-  - [2017 Aug 28](#2017-aug-28)
-  - [2017 Aug 21](#2017-aug-21)
-  - [2017 Aug 14](#2017-aug-14)
-  - [2017 Aug 07](#2017-aug-07)
-  - [2017 Jul 31](#2017-jul-31)
-  - [2017 Jul 24](#2017-jul-24)
-  - [2017 Jul 24](#2017-jul-24-1)
-  - [2017 Jul 17](#2017-jul-17)
-  - [2017 Jul 10](#2017-jul-10)
-  - [2017 Jul 03](#2017-jul-03)
-  - [2017 Jun 26](#2017-jun-26)
-  - [2017 Jun 19](#2017-jun-19)
-  - [2017 Jun 12](#2017-jun-12)
-  - [2017 Jun 05](#2017-jun-05)
-  - [2017 May 29](#2017-may-29)
-  - [2017 May 22](#2017-may-22)
-  - [2017 May 15](#2017-may-15)
-  - [2017 May 08](#2017-may-08)
-  - [2017 May 01](#2017-may-01)
-  - [2017 April 24](#2017-april-24)
-  - [2017 April 17](#2017-april-17)
-  - [2017 April 10](#2017-april-10)
-  - [2017 April 03](#2017-april-03)
-  - [2017 March 27](#2017-march-27)
-  - [2017 March 20](#2017-march-20)
-  - [2017 March 13](#2017-march-13)
+* [History](#history)
+  * [2017 Dec 11](#2017-dec-11)
+  * [2017 Dec 04](#2017-dec-04)
+  * [2017 Nov 27](#2017-nov-27)
+  * [2017 Nov 20](#2017-nov-20)
+  * [2017 Nov 13](#2017-nov-13)
+  * [2017 Nov 06](#2017-nov-06)
+  * [2017 Oct 30](#2017-oct-30)
+  * [2017 Oct 23](#2017-oct-23)
+  * [2017 Oct 16](#2017-oct-16)
+  * [2017 Oct 09](#2017-oct-09)
+  * [2017 Oct 02](#2017-oct-02)
+  * [2017 Sep 25](#2017-sep-25)
+  * [2017 Sep 18](#2017-sep-18)
+  * [2017 Sep 11](#2017-sep-11)
+  * [2017 Sep 04](#2017-sep-04)
+  * [2017 Aug 28](#2017-aug-28)
+  * [2017 Aug 21](#2017-aug-21)
+  * [2017 Aug 14](#2017-aug-14)
+  * [2017 Aug 07](#2017-aug-07)
+  * [2017 Jul 31](#2017-jul-31)
+  * [2017 Jul 24](#2017-jul-24)
+  * [2017 Jul 24](#2017-jul-24-1)
+  * [2017 Jul 17](#2017-jul-17)
+  * [2017 Jul 10](#2017-jul-10)
+  * [2017 Jul 03](#2017-jul-03)
+  * [2017 Jun 26](#2017-jun-26)
+  * [2017 Jun 19](#2017-jun-19)
+  * [2017 Jun 12](#2017-jun-12)
+  * [2017 Jun 05](#2017-jun-05)
+  * [2017 May 29](#2017-may-29)
+  * [2017 May 22](#2017-may-22)
+  * [2017 May 15](#2017-may-15)
+  * [2017 May 08](#2017-may-08)
+  * [2017 May 01](#2017-may-01)
+  * [2017 April 24](#2017-april-24)
+  * [2017 April 17](#2017-april-17)
+  * [2017 April 10](#2017-april-10)
+  * [2017 April 03](#2017-april-03)
+  * [2017 March 27](#2017-march-27)
+  * [2017 March 20](#2017-march-20)
+  * [2017 March 13](#2017-march-13)
 
 <!-- /TOC -->
 
 </details>
+
+**[View README 👀](README.md#personal-goals)**
+
+## 2017 Dec 25
+
+z **What I did do last week:**
+
+* [x] Chingu Voyage 3 grad.then work
+* [x] Blog work
+
+**What I didn't finish last week:**
+
+* [ ] All the things, I made progress though!
+
+**Plan for this week:**
+
+* [ ] finish blog
+
+**Unplanned:**
+
+**WakaTime activity:**
+
+```
+ Week: 23 hours 4 minutes (Total)
+
+ JavaScript: 16 hours 37 minutes 41 seconds
+ Markdown: 4 hours 17 minutes 5 seconds
+ JSON: 1 hours 46 minutes 33 seconds
+ CSS: 0 hours 9 minutes 32 seconds
+ Other: 0 hours 8 minutes 12 seconds
+ Git Config: 0 hours 7 minutes 30 seconds
+ JSX: 0 hours 7 minutes 1 seconds
+
+ blog.scottspence.me: 18 hours 19 minutes 19 seconds
+ cheat-sheets: 1 hours 47 minutes 49 seconds
+ settings: 1 hours 3 minutes 24 seconds
+ grad.then: 0 hours 37 minutes 20 seconds
+ styled-components-website: 0 hours 37 minutes 4 seconds
+ Unknown Project: 0 hours 19 minutes 21 seconds
+ dotfiles: 0 hours 11 minutes 28 seconds
+ gatsby-starter-lumen: 0 hours 8 minutes 4 seconds
+ gatsby: 0 hours 5 minutes 59 seconds
+ personal-goals: 0 hours 3 minutes 48 seconds
+```
+
+**Thoughts 💭**
+
+**20171231:** Merry New Years eve!!!
+
+I seem to have lost a couple of weeks of logs, I nuked my machine the other day
+and have been configuring it ever since.
+
+**[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
 
