@@ -33,13 +33,11 @@ Tools of my trade: VBA, SQL some VB.NET and C#
 ## My interests
 
 As I'm devoting nearly every spare hour I have to sitting in front of a screen
-and trying to make something happen my main interests are currently:
+and trying to make something happen, my main interests are currently:
 
 * JavaScript learning all teh things!
   * React - [have done some projects][react-projects], nothing fancy!
-  * Node - made several [Twitter bots][twit-bots], part way through two courses
-    on it.
-* Bots - I want to borarden my bots horizon from Twitter.
+  * Node - made several [Twitter bots][twit-bots].
 * Things on my 'I should learn that list':
   * GraphQL
   * WebHooks, GitHub integrations, I really want to build a badge-bot!
