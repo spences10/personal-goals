@@ -1,6 +1,6 @@
 # This week
 
-## 2017 Dec 25
+## 2018 Jan 01
 
 **What I did do last week:**
 
@@ -9,7 +9,7 @@
 
 **What I didn't finish last week:**
 
-* [ ] All the things, I made progress though!
+* [ ] Didn't finish the blog, taking way to much time now 🙃
 
 **Plan for this week:**
 
@@ -20,34 +20,37 @@
 **WakaTime activity:**
 
 ```
- Week: 23 hours 4 minutes (Total)
+ Week: 38 hours 44 minutes (Total)
 
- JavaScript: 16 hours 37 minutes 41 seconds
- Markdown: 4 hours 17 minutes 5 seconds
- JSON: 1 hours 46 minutes 33 seconds
- CSS: 0 hours 9 minutes 32 seconds
- Other: 0 hours 8 minutes 12 seconds
- Git Config: 0 hours 7 minutes 30 seconds
- JSX: 0 hours 7 minutes 1 seconds
+ JavaScript: 28 hours 13 minutes 59 seconds
+ Markdown: 9 hours 57 minutes 43 seconds
+ JSON: 0 hours 32 minutes 17 seconds
+ Other: 0 hours 4 minutes 1 seconds
+ CSS: 0 hours 3 minutes 29 seconds
+ Text: 0 hours 0 minutes 57 seconds
 
- blog.scottspence.me: 18 hours 19 minutes 19 seconds
- cheat-sheets: 1 hours 47 minutes 49 seconds
- settings: 1 hours 3 minutes 24 seconds
- grad.then: 0 hours 37 minutes 20 seconds
- styled-components-website: 0 hours 37 minutes 4 seconds
- Unknown Project: 0 hours 19 minutes 21 seconds
- dotfiles: 0 hours 11 minutes 28 seconds
- gatsby-starter-lumen: 0 hours 8 minutes 4 seconds
- gatsby: 0 hours 5 minutes 59 seconds
- personal-goals: 0 hours 3 minutes 48 seconds
+ blog.scottspence.me: 35 hours 28 minutes 25 seconds
+ grad.then: 1 hours 43 minutes 33 seconds
+ personal-goals: 0 hours 52 minutes 30 seconds
+ gatsby-demo-blog-code: 0 hours 29 minutes 21 seconds
+ Unknown Project: 0 hours 10 minutes 21 seconds
+ scottspence.me: 0 hours 6 minutes 36 seconds
+ jamp: 0 hours 1 minutes 36 seconds
 ```
 
 **Thoughts 💭**
 
-**20171231:** Merry New Years eve!!!
+**20180107:** Shaving the yak! I got caught up with bash issues through the week
+so much so that I decided to wipe my laptop and start again, I have all my data
+and programs backed up on OneDrive so it wasn't a really big issue.
 
-I seem to have lost a couple of weeks of logs, I nuked my machine the other day
-and have been configuring it ever since.
+I composed a post on configuring WSL as I've done it a few times now and made
+notes, switched to `n` from `nvm` and the terminal appears to be a lot more
+responsive.
+
+As you can see from my WakaTime activity I shuold be concentrating more on the
+`grad.then()` project, it's due to finish 20180114 so me and the guys wil have a
+couple of busy day coming up!
 
 **[View history 👵👴](history.md#history)**
 
