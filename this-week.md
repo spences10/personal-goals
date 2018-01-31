@@ -1,6 +1,6 @@
 # This week
 
-## 2018 Jan 22
+## 2018 Jan 29
 
 **What I did do last week:**
 
@@ -22,19 +22,7 @@ Having a fever! 🙃
 **WakaTime activity:**
 
 ```
- Week: 8 hours 47 minutes (Total)
 
- JavaScript: 7 hours 49 minutes 26 seconds
- JSON: 1 hours 1 minutes 6 seconds
- Markdown: 0 hours 2 minutes 35 seconds
- Other: 0 hours 0 minutes 32 seconds
-
- scottspence.me: 5 hours 37 minutes 34 seconds
- blog.scottspence.me: 2 hours 23 minutes 8 seconds
- characters-from-password: 0 hours 39 minutes 45 seconds
- grad.then: 0 hours 9 minutes 54 seconds
- personal-goals: 0 hours 2 minutes 35 seconds
- Unknown Project: 0 hours 0 minutes 41 seconds
 ```
 
 **Thoughts 💭**
@@ -45,6 +33,11 @@ care center waiting to see a GP. I was prescribed strong antibiotics
 and as a result have not been able to concentrate on anything longer
 than five minutes. I have spent the majority of this week on the sofa
 watching Netflix.
+
+**20180131:** Used Gatsby image to lazy load project images on my
+portfolio, it took a lot longer than anticipated, I nearly gave up but
+my cohort mar-bi encourgaed me to take another look and that was all I
+needed to make the breakthrough, such a win when that happens 👏 🙏
 
 **[View history 👵👴](history.md#history)**
 
