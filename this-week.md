@@ -52,7 +52,8 @@ done - I'm doing it again with trying to complete Framework of the
 Day.
 
 **20180218:** Framework of the Day has taken a back seat until I
-finish c-counter
+finish c-counter. Learned today that patches should be tested in their
+own branch before going to the main dev branch 🙃
 
 **[View history 👵👴](history.md#history)**
 
