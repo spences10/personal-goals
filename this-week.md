@@ -57,7 +57,10 @@
 
 **20180318:** Personal development is in a bit of limbo at the moment.
 
-**20180321:** Currently trying to articulate how a JAM Stack is going to help security with a client.
+**20180321:** Currently trying to articulate how a JAM Stack is going
+to help security with a client.
+
+**20180324:** Have cold, feel like crap
 
 **[View history 👵👴](history.md#history)**
 
