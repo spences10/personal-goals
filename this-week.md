@@ -55,6 +55,10 @@ GraphCMS working together, a lot of it is layout stuff currently 🙃
 day by day, I'm also struggling more with a Windows keyboard. Why
 couldn't Apple use the standard layout 🙃
 
+**20180331:** I'm attempting to move my Gatsby blog from having the
+posts stored on the actual site over to GraphCMS, this will lend well
+to what I'm trying to accomplish at work as well.
+
 **[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
