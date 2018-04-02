@@ -20,30 +20,31 @@
 **WakaTime activity:**
 
 ```
- Week: 28 hours 27 minutes (Total)
+ Week: 30 hrs 13 mins
 
- JavaScript: 21 hours 1 minutes 50 seconds
- Markdown: 3 hours 23 minutes 19 seconds
- Text: 1 hours 54 minutes 33 seconds
- JSON: 1 hours 16 minutes 13 seconds
- Other: 1 hours 5 minutes 31 seconds
- YAML: 0 hours 1 minutes 59 seconds
- Git Config: 0 hours 1 minutes 20 seconds
- CSS: 0 hours 0 minutes 5 seconds
+ JavaScript	24 hrs 22 mins
+ Markdown	2 hrs 27 mins
+ JSON	2 hrs 1 min
+ Text	52 mins
+ Other	32 mins
+ Git Config	1 min
 
- gatsby-using-graphcms: 14 hours 13 minutes 1 seconds
- react-using-grapgcms: 3 hours 14 minutes 26 seconds
- read-twitter-stream: 2 hours 44 minutes 6 seconds
- blog.scottspence.me: 2 hours 17 minutes 34 seconds
- gatsby: 1 hours 51 minutes 5 seconds
- 100DaysOfCode-twitter-bot: 1 hours 21 minutes 15 seconds
- gatsby-graphcms-example: 1 hours 17 minutes 35 seconds
- personal-goals: 0 hours 57 minutes 55 seconds
- openode: 0 hours 16 minutes 42 seconds
- graphql-advanced: 0 hours 14 minutes 18 seconds
- scottspence.me: 0 hours 7 minutes 4 seconds
- Unknown Project: 0 hours 6 minutes 2 seconds
- cheat-sheets: 0 hours 3 minutes 49 seconds
+ gatsby-using-graphcms	14 hrs 13 mins
+ blog.scottspence.me	6 hrs 46 mins
+ react-using-grapgcms	3 hrs 15 mins
+ gatsby	1 hr 51 mins
+ gatsby-graphcms-example	1 hr 41 mins
+ framework-of-the-day	59 mins
+ read-twitter-stream	54 mins
+ personal-goals	24 mins
+ scottspence.me	4 mins
+ cheat-sheets	3 mins
+ Unknown Project	3 mins
+
+ VS Code	30 hrs 18 mins
+
+ Mac	27 hrs 10 mins
+ Windows	3 hrs 7 mins
 ```
 
 **Thoughts 💭**
