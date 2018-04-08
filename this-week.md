@@ -1,64 +1,52 @@
 # This week
 
-## 2018 Mar 26
+## 2018 Apr 02
 
 **What I did do last week:**
 
-* [x] finish framework of the day
+* [x] styled-components getting started post
 
 **What I didn't finish last week:**
 
-* [ ] styled-components post
+* [ ] personal blog using GraphCMS
 
 **Plan for this week:**
 
-* [ ] finish styled-components post
-* [ ] attempt to get office-ipsum outline done
+* [ ] try to use the new React Context API
 
 **Unplanned:**
 
 **WakaTime activity:**
 
-```
- Week: 30 hrs 13 mins
+```sh
+ Week: 21 hours 57 minutes (Total)
 
- JavaScript	24 hrs 22 mins
- Markdown	2 hrs 27 mins
- JSON	2 hrs 1 min
- Text	52 mins
- Other	32 mins
- Git Config	1 min
+ JavaScript: 15 hours 50 minutes 59 seconds
+ Other: 2 hours 8 minutes 12 seconds
+ Markdown: 1 hours 48 minutes 34 seconds
+ JSON: 1 hours 19 minutes 20 seconds
+ YAML: 0 hours 58 minutes 20 seconds
+ Git Config: 0 hours 3 minutes 49 seconds
+ GAP: 0 hours 0 minutes 32 seconds
+ CSS: 0 hours 0 minutes 0 seconds
 
- gatsby-using-graphcms	14 hrs 13 mins
- blog.scottspence.me	6 hrs 46 mins
- react-using-grapgcms	3 hrs 15 mins
- gatsby	1 hr 51 mins
- gatsby-graphcms-example	1 hr 41 mins
- framework-of-the-day	59 mins
- read-twitter-stream	54 mins
- personal-goals	24 mins
- scottspence.me	4 mins
- cheat-sheets	3 mins
- Unknown Project	3 mins
-
- VS Code	30 hrs 18 mins
-
- Mac	27 hrs 10 mins
- Windows	3 hrs 7 mins
+ gatsby-using-graphcms: 9 hours 18 minutes 51 seconds
+ graphql-getting-started: 5 hours 11 minutes 9 seconds
+ framework-of-the-day-cra: 3 hours 15 minutes 30 seconds
+ Unknown Project: 1 hours 10 minutes 46 seconds
+ gatsby-netlify-cms: 0 hours 59 minutes 20 seconds
+ gatsby-listing-example: 0 hours 52 minutes 44 seconds
+ gatsby-graphcms-example: 0 hours 47 minutes 11 seconds
+ blog.scottspence.me: 0 hours 11 minutes 1 seconds
+ personal-goals: 0 hours 8 minutes 18 seconds
+ cheat-sheets: 0 hours 7 minutes 31 seconds
+ framework-of-the-day: 0 hours 7 minutes 28 seconds
 ```
 
 **Thoughts 💭**
 
-**20180329:** I have spent most of the week trying to get Gatsby and
-GraphCMS working together, a lot of it is layout stuff currently 🙃
-
-**20180330:** Happy Easter Friday! I'm becoming more of a fan of Mac
-day by day, I'm also struggling more with a Windows keyboard. Why
-couldn't Apple use the standard layout 🙃
-
-**20180331:** I'm attempting to move my Gatsby blog from having the
-posts stored on the actual site over to GraphCMS, this will lend well
-to what I'm trying to accomplish at work as well.
+**20180408:** I'm sick, have been for the past two weeks, some weird
+throat/cold thing. Feel the worst 😷🌡
 
 **[View history 👵👴](history.md#history)**
 
