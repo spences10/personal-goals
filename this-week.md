@@ -1,19 +1,18 @@
 # This week
 
-## 2018 Apr 09
+## 2018 Apr 16
 
 **What I did do last week:**
 
-* [x] styled-components getting started post
+* [x] was sick
 
 **What I didn't finish last week:**
 
-* [ ] personal blog using GraphCMS
+* [ ] personal blog using GraphCM
 
 **Plan for this week:**
 
-* [ ] try to use the new React Context API
-* [ ] chill and relax on holiday to Spain 🏖
+* [ ] Get personal blog using GraphCMS operational
 
 **Unplanned:**
 
@@ -25,9 +24,8 @@
 
 **Thoughts 💭**
 
-**20180408:** I'm sick, 😱
+**20180416:**
 
-**20180415:** Still sick 😷
 
 **[View history 👵👴](history.md#history)**
 
