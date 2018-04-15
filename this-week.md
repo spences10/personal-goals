@@ -27,6 +27,8 @@
 
 **20180408:** I'm sick, 😱
 
+**20180415:** Still sick 😷
+
 **[View history 👵👴](history.md#history)**
 
 **[View README 👀](README.md#personal-goals)**
