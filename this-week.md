@@ -60,7 +60,8 @@ Week: 43 hours 26 minutes (Total)
 **20180507:** Bank holiday! Spending some time trying to finish this
 online cv, then maybe take a look at updating my personal site, then
 maybe a blog post on how I did the online cv... maybe, maybe, maybe 🤔
-strong, real strong 🙃
+strong, real strong 🙃 **20180519:** Missed updating this so updating
+today at the edn of the week to then update this weeks one tomorrow 🙃
 
 **[View history 👵👴](history.md#history)**
 
