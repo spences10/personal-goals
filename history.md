@@ -68,7 +68,6 @@
 
  blog.scottspence.me: 20 hours 43 minutes 47 seconds
  v2-gatsby-blog: 4 hours 6 minutes 50 seconds
- zaizi-ncsc: 3 hours 2 minutes 11 seconds
  gatsby-v2-test: 2 hours 30 minutes 8 seconds
  speedtest: 1 hours 2 minutes 33 seconds
  Unknown Project: 0 hours 54 minutes 34 seconds
@@ -122,7 +121,6 @@ Week: 53 hours 26 minutes (Total)
  Properties: 0 hours 0 minutes 18 seconds
 
  blog.scottspence.me: 18 hours 8 minutes 24 seconds
- ncsc-react-crafter: 9 hours 35 minutes 47 seconds
  cv: 7 hours 44 minutes 3 seconds
  c-counter-new: 3 hours 9 minutes 42 seconds
  scottspence.me: 2 hours 29 minutes 57 seconds
@@ -185,7 +183,6 @@ Week: 43 hours 26 minutes (Total)
  XML: 0 hours 3 minutes 13 seconds
  Properties: 0 hours 0 minutes 18 seconds
 
- ncsc-react-crafter: 9 hours 33 minutes 30 seconds
  blog.scottspence.me: 8 hours 22 minutes 38 seconds
  cv: 8 hours 12 minutes 17 seconds
  scottspence.me: 3 hours 4 minutes 4 seconds
@@ -684,7 +681,6 @@ Personal development is in a bit of limbo at the moment.
  Ruby: 0 hours 0 minutes 14 seconds
 
  blog.scottspence.me: 3 hours 20 minutes 12 seconds
- newzaizizaizicloudnet: 2 hours 50 minutes 18 seconds
  scottspence.me: 2 hours 14 minutes 4 seconds
  100DaysOfCode-twitter-bot: 2 hours 0 minutes 21 seconds
  c-counter: 1 hours 33 minutes 15 seconds
