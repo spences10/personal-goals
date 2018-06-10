@@ -4,49 +4,106 @@
   <summary>TOC</summary>
 <!-- TOC -->
 
-* [History](#history)
-  * [2018 May 07](#2018-may-07)
-  * [2018 Apr 30](#2018-apr-30)
-  * [2018 Apr 23](#2018-apr-23)
-  * [2018 Apr 16](#2018-apr-16)
-  * [2018 Apr 09](#2018-apr-09)
-  * [2018 Apr 02](#2018-apr-02)
-  * [2018 Mar 26](#2018-mar-26)
-  * [2018 Mar 19](#2018-mar-19)
-  * [2018 Mar 12](#2018-mar-12)
-  * [2018 Mar 05](#2018-mar-05)
-  * [2018 Feb 26](#2018-feb-26)
-  * [2018 Feb 19](#2018-feb-19)
-  * [2018 Feb 12](#2018-feb-12)
-  * [2018 Feb 05](#2018-feb-05)
-  * [2018 Jan 29](#2018-jan-29)
-  * [2018 Jan 22](#2018-jan-22)
-  * [2018 Jan 15](#2018-jan-15)
-  * [2018 Jan 08](#2018-jan-08)
-  * [2018 Jan 01](#2018-jan-01)
+- [History](#history)
+  - [2018 Jun 04](#2018-jun-04)
+  - [2018 May 14](#2018-may-14)
+  - [2018 May 07](#2018-may-07)
+  - [2018 Apr 30](#2018-apr-30)
+  - [2018 Apr 23](#2018-apr-23)
+  - [2018 Apr 16](#2018-apr-16)
+  - [2018 Apr 09](#2018-apr-09)
+  - [2018 Apr 02](#2018-apr-02)
+  - [2018 Mar 26](#2018-mar-26)
+  - [2018 Mar 19](#2018-mar-19)
+  - [2018 Mar 12](#2018-mar-12)
+  - [2018 Mar 05](#2018-mar-05)
+  - [2018 Feb 26](#2018-feb-26)
+  - [2018 Feb 19](#2018-feb-19)
+  - [2018 Feb 12](#2018-feb-12)
+  - [2018 Feb 05](#2018-feb-05)
+  - [2018 Jan 29](#2018-jan-29)
+  - [2018 Jan 22](#2018-jan-22)
+  - [2018 Jan 15](#2018-jan-15)
+  - [2018 Jan 08](#2018-jan-08)
+  - [2018 Jan 01](#2018-jan-01)
 
 <!-- /TOC -->
 
 </details>
 
+## 2018 Jun 04
+
+**What I did do last week:**
+
+- [x] start transition to Gatsby v2
+
+**What I didn't finish last week:**
+
+- [ ] Migrating blog to GraphCMS
+
+**Plan for this week:**
+
+- [ ] Style Gatsby v2 blog
+
+**Unplanned:**
+
+- [ ] nothing
+
+**WakaTime activity:**
+
+```sh
+ Week: 32 hours 53 minutes (Total)
+
+ JavaScript: 20 hours 10 minutes 12 seconds
+ JSON: 6 hours 15 minutes 14 seconds
+ TypeScript: 2 hours 55 minutes 33 seconds
+ Markdown: 1 hours 21 minutes 39 seconds
+ YAML: 0 hours 52 minutes 4 seconds
+ Other: 0 hours 39 minutes 6 seconds
+ CSS: 0 hours 19 minutes 11 seconds
+ HTML: 0 hours 16 minutes 51 seconds
+ Git Config: 0 hours 5 minutes 41 seconds
+ SCSS: 0 hours 0 minutes 25 seconds
+ Text: 0 hours 0 minutes 4 seconds
+
+ blog.scottspence.me: 20 hours 43 minutes 47 seconds
+ v2-gatsby-blog: 4 hours 6 minutes 50 seconds
+ zaizi-ncsc: 3 hours 2 minutes 11 seconds
+ gatsby-v2-test: 2 hours 30 minutes 8 seconds
+ speedtest: 1 hours 2 minutes 33 seconds
+ Unknown Project: 0 hours 54 minutes 34 seconds
+ blog-v2: 0 hours 26 minutes 6 seconds
+ crafter-react-simple: 0 hours 4 minutes 58 seconds
+ cv: 0 hours 1 minutes 51 seconds
+ gatsby-using-graphcms: 0 hours 1 minutes 34 seconds
+ settings: 0 hours 1 minutes 26 seconds
+ personal-goals: 0 hours 0 minutes 5 seconds
+```
+
+**Thoughts 💭**
+
+**20180604:** missed a few weeks logging my work here, I'm in the
+process of moving my blog to Gatsby v2 and have decided instead of
+'just' migrating to do some styling as well.
+
 ## 2018 May 14
 
 **What I did do last week:**
 
-* [x] Converted some pages on scottspence.me to .md files
-* [x] finish the online CV
+- [x] Converted some pages on scottspence.me to .md files
+- [x] finish the online CV
 
 **What I didn't finish last week:**
 
-* [ ] Migrating blog to GraphCMS
+- [ ] Migrating blog to GraphCMS
 
 **Plan for this week:**
 
-* [ ] Migrating blog to GraphCMS
+- [ ] Migrating blog to GraphCMS
 
 **Unplanned:**
 
-* [ ] move c-counter to next.js
+- [ ] move c-counter to next.js
 
 **WakaTime activity:**
 
@@ -96,19 +153,19 @@ majority of this was OMFG why isn't this working!!
 
 **What I did do last week:**
 
-* [x] Made an online CV in react ⚛ then moved it to Gatsby
+- [x] Made an online CV in react ⚛ then moved it to Gatsby
 
 **What I didn't finish last week:**
 
-* [ ] Migrating blog to GraphCMS
+- [ ] Migrating blog to GraphCMS
 
 **Plan for this week:**
 
-* [x] finish the online CV
-* [ ] Get personal blog using GraphCMS to:
-  * [ ] display tags
-  * [ ] get page navigation working
-  * [x] Online CV in ~~react~~ Gatsby working again.
+- [x] finish the online CV
+- [ ] Get personal blog using GraphCMS to:
+  - [ ] display tags
+  - [ ] get page navigation working
+  - [x] Online CV in ~~react~~ Gatsby working again.
 
 **Unplanned:**
 
@@ -161,22 +218,22 @@ week to then update this weeks one tomorrow 🙃
 
 **What I did do last week:**
 
-* [x] got page generation of my blog with GraphCMS working
+- [x] got page generation of my blog with GraphCMS working
 
 **What I didn't finish last week:**
 
-* [ ] nothing!
+- [ ] nothing!
 
 **Plan for this week:**
 
-* [ ] Get personal blog using GraphCMS to:
-  * [ ] display tags
-  * [ ] get page navigation working
-  * [ ] Online CV in react working again.
+- [ ] Get personal blog using GraphCMS to:
+  - [ ] display tags
+  - [ ] get page navigation working
+  - [ ] Online CV in react working again.
 
 **Unplanned:**
 
-* [x] Move online CV to Gatsby
+- [x] Move online CV to Gatsby
 
 **WakaTime activity:**
 
@@ -212,21 +269,21 @@ week to then update this weeks one tomorrow 🙃
 
 **What I did do last week:**
 
-* [x] got page generation of my blog with GraphCMS working
+- [x] got page generation of my blog with GraphCMS working
 
 **What I didn't finish last week:**
 
-* [ ] nothing!
+- [ ] nothing!
 
 **Plan for this week:**
 
-* [ ] Get personal blog using GraphCMS to:
-  * [ ] display tags
-  * [ ] get page navigation working
+- [ ] Get personal blog using GraphCMS to:
+  - [ ] display tags
+  - [ ] get page navigation working
 
 **Unplanned:**
 
-* [ ] Started looking at getting my CV in react working again. Not any
+- [ ] Started looking at getting my CV in react working again. Not any
       reason why 😯
 
 **WakaTime activity:**
@@ -279,15 +336,15 @@ affecting my home life.
 
 **What I did do last week:**
 
-* [x] was sick
+- [x] was sick
 
 **What I didn't finish last week:**
 
-* [ ] personal blog using GraphCM
+- [ ] personal blog using GraphCM
 
 **Plan for this week:**
 
-* [ ] Get personal blog using GraphCMS operational
+- [ ] Get personal blog using GraphCMS operational
 
 **Unplanned:**
 
@@ -323,16 +380,16 @@ affecting my home life.
 
 **What I did do last week:**
 
-* [x] styled-components getting started post
+- [x] styled-components getting started post
 
 **What I didn't finish last week:**
 
-* [ ] personal blog using GraphCMS
+- [ ] personal blog using GraphCMS
 
 **Plan for this week:**
 
-* [ ] try to use the new React Context API
-* [ ] chill and relax on holiday to Spain 🏖
+- [ ] try to use the new React Context API
+- [ ] chill and relax on holiday to Spain 🏖
 
 **Unplanned:**
 
@@ -352,15 +409,15 @@ affecting my home life.
 
 **What I did do last week:**
 
-* [x] styled-components getting started post
+- [x] styled-components getting started post
 
 **What I didn't finish last week:**
 
-* [ ] personal blog using GraphCMS
+- [ ] personal blog using GraphCMS
 
 **Plan for this week:**
 
-* [ ] try to use the new React Context API
+- [ ] try to use the new React Context API
 
 **Unplanned:**
 
@@ -400,16 +457,16 @@ throat/cold thing. Feel the worst 😷🌡
 
 **What I did do last week:**
 
-* [x] finish framework of the day
+- [x] finish framework of the day
 
 **What I didn't finish last week:**
 
-* [ ] styled-components post
+- [ ] styled-components post
 
 **Plan for this week:**
 
-* [ ] finish styled-components post
-* [ ] attempt to get office-ipsum outline done
+- [ ] finish styled-components post
+- [ ] attempt to get office-ipsum outline done
 
 **Unplanned:**
 
@@ -460,19 +517,19 @@ to what I'm trying to accomplish at work as well.
 
 **What I did do last week:**
 
-* [x] finish 100 days of code post
+- [x] finish 100 days of code post
 
 **What I didn't finish last week:**
 
-* [x] getting started with styled-components 💅 post
-* [x] get projects added to portfolio
+- [x] getting started with styled-components 💅 post
+- [x] get projects added to portfolio
 
-  * Framework of the Day
-  * c-counter
+  - Framework of the Day
+  - c-counter
 
 **Plan for this week:**
 
-* [ ] find a side project to work on
+- [ ] find a side project to work on
 
 **Unplanned:**
 
@@ -522,19 +579,19 @@ to help security with a client.
 
 **What I did do last week:**
 
-* [x] finish 100 days of code post
+- [x] finish 100 days of code post
 
 **What I didn't finish last week:**
 
-* [x] getting started with styled-components 💅 post
-* [x] get projects added to portfolio
+- [x] getting started with styled-components 💅 post
+- [x] get projects added to portfolio
 
-  * Framework of the Day
-  * c-counter
+  - Framework of the Day
+  - c-counter
 
 **Plan for this week:**
 
-* [ ] find a side project to work on
+- [ ] find a side project to work on
 
 **Unplanned:**
 
@@ -594,19 +651,19 @@ Personal development is in a bit of limbo at the moment.
 
 **What I did do last week:**
 
-* [x] 100 days of code post
-* [x] getting started with styled-components 💅 post
+- [x] 100 days of code post
+- [x] getting started with styled-components 💅 post
 
 **What I didn't finish last week:**
 
-* [x] get projects added to portfolio
+- [x] get projects added to portfolio
 
-  * Framework of the Day
-  * c-counter
+  - Framework of the Day
+  - c-counter
 
 **Plan for this week:**
 
-* [x] Start new job as Front End Developer 🎉
+- [x] Start new job as Front End Developer 🎉
 
 **Unplanned:**
 
@@ -649,21 +706,21 @@ Personal development is in a bit of limbo at the moment.
 
 **What I did do last week:**
 
-* [x] revamped c-counter
-* [x] finished react stopwatch
+- [x] revamped c-counter
+- [x] finished react stopwatch
 
 **What I didn't finish last week:**
 
-* [x] get projects added to portfolio
+- [x] get projects added to portfolio
 
-  * Framework of the Day
-  * c-counter
+  - Framework of the Day
+  - c-counter
 
 **Plan for this week:**
 
-* [ ] Start working on `grad.then`
-* [ ] finish 100 days of code post
-* [ ] start styling with styled components
+- [ ] Start working on `grad.then`
+- [ ] finish 100 days of code post
+- [ ] start styling with styled components
 
 **Unplanned:**
 
@@ -708,20 +765,20 @@ which I'm quite proud of. I'll finish the post Tuesday.
 
 **What I did do last week:**
 
-* [x] revamped c-counter
+- [x] revamped c-counter
 
 **What I didn't finish last week:**
 
-* [x] get projects added to portfolio
+- [x] get projects added to portfolio
 
-  * Framework of the Day
-  * React stopwatch
+  - Framework of the Day
+  - React stopwatch
 
 **Plan for this week:**
 
-* [x] planned for next Chingu Voyage with my cohorts
+- [x] planned for next Chingu Voyage with my cohorts
 
-* [ ] Start planning Chungu Voyage 4 with cohorts
+- [ ] Start planning Chungu Voyage 4 with cohorts
 
 **Unplanned:**
 
@@ -764,22 +821,22 @@ next voyage for `grad.then`
 
 **What I did do last week:**
 
-* [x] finished 90% of fotd.scottspence.me
+- [x] finished 90% of fotd.scottspence.me
 
-* [x] planned for next Chingu Voyage with my cohorts
+- [x] planned for next Chingu Voyage with my cohorts
 
 **What I didn't finish last week:**
 
-* [ ] nothing
+- [ ] nothing
 
 **Plan for this week:**
 
-* [ ] get projects added to portfolio
+- [ ] get projects added to portfolio
 
-  * Framework of the Day
-  * React stopwatch
+  - Framework of the Day
+  - React stopwatch
 
-* [ ] Start planning Chungu Voyage 4 with cohorts
+- [ ] Start planning Chungu Voyage 4 with cohorts
 
 **Unplanned:**
 
@@ -819,18 +876,18 @@ own branch before going to the main dev branch 🙃
 
 **What I did do last week:**
 
-* [x] finished 90% of scottspence.me
+- [x] finished 90% of scottspence.me
 
-* [x] planned for next Chingu Voyage with my cohorts
+- [x] planned for next Chingu Voyage with my cohorts
 
 **What I didn't finish last week:**
 
-* [ ] nothing
+- [ ] nothing
 
 **Plan for this week:**
 
-* [ ] get several projects ready to add to portfolio
-* [ ] Personal portfolio completed
+- [ ] get several projects ready to add to portfolio
+- [ ] Personal portfolio completed
 
 **Unplanned:**
 
@@ -885,16 +942,16 @@ gleaned from my CV which states in the first paragraph that I have got
 
 **What I did do last week:**
 
-* [x] Had fever / on the sofa all week 😷
+- [x] Had fever / on the sofa all week 😷
 
 **What I didn't finish last week:**
 
-* [ ] nothing
+- [ ] nothing
 
 **Plan for this week:**
 
-* [ ] Planning with cohorts for next Chingus voyage
-* [ ] Personal portfolio completed
+- [ ] Planning with cohorts for next Chingus voyage
+- [ ] Personal portfolio completed
 
 **Unplanned:**
 
@@ -943,16 +1000,16 @@ react-for-beginners will all be having a code refresh.
 
 **What I did do last week:**
 
-* [x] Had fever / on the sofa all week 😷
+- [x] Had fever / on the sofa all week 😷
 
 **What I didn't finish last week:**
 
-* [ ] nothing
+- [ ] nothing
 
 **Plan for this week:**
 
-* [ ] Planning with cohorts for next Chingus voyage
-* [ ] Personal portfolio completed
+- [ ] Planning with cohorts for next Chingus voyage
+- [ ] Personal portfolio completed
 
 **Unplanned:**
 
@@ -989,16 +1046,16 @@ watching Netflix.
 
 **What I did do last week:**
 
-* [x] Have Blog up and running 👌
+- [x] Have Blog up and running 👌
 
 **What I didn't finish last week:**
 
-* [ ] Chingus project work
+- [ ] Chingus project work
 
 **Plan for this week:**
 
-* [ ] Chingus project work
-* [ ] Personal portfolio
+- [ ] Chingus project work
+- [ ] Personal portfolio
 
 **Unplanned:**
 
@@ -1041,16 +1098,16 @@ fiddling with grid areas.
 
 **What I did do last week:**
 
-* [x] Chingu Voyage 3 grad.then work
-* [x] Blog work
+- [x] Chingu Voyage 3 grad.then work
+- [x] Blog work
 
 **What I didn't finish last week:**
 
-* [ ] Didn't finish the blog, taking way to much time now 🙃
+- [ ] Didn't finish the blog, taking way to much time now 🙃
 
 **Plan for this week:**
 
-* [ ] finish blog
+- [ ] finish blog
 
 **Unplanned:**
 
@@ -1094,16 +1151,16 @@ easily.
 
 **What I did do last week:**
 
-* [x] Chingu Voyage 3 grad.then work
-* [x] Blog work
+- [x] Chingu Voyage 3 grad.then work
+- [x] Blog work
 
 **What I didn't finish last week:**
 
-* [ ] Didn't finish the blog, taking way to much time now 🙃
+- [ ] Didn't finish the blog, taking way to much time now 🙃
 
 **Plan for this week:**
 
-* [ ] finish blog
+- [ ] finish blog
 
 **Unplanned:**
 
