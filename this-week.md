@@ -1,10 +1,10 @@
 # This week
 
-## 2018 Jul 08
+## 2018 Jul 23
 
 **What I did do last week:**
 
-- [x] was on an extended weekend break to Gozo
+- [x] been run down, plus got a broken toe!
 
 **What I didn't finish last week:**
 
@@ -26,13 +26,14 @@
 
 **Thoughts 💭**
 
-**20180708:** It has been a busy couple of weeks with work and life!
-Just recovered from an extended weekend away to Gozo.
+**20180723:** Sitting on my hands waiting for some projects to move
+along, namely react-static and GraphCMS.
 
-Work wise, I have completely migrated my blog to React Static bar one
-feature that Gatsby has over React Static. That feature is PWA
-functionality. I have spent a fair amount of time trying to get
-something functional with no success.
+GraphCMS I'm waiting for the migration tools from legacy to the new
+platform.
+
+React-Static there was some talk of adding in PWA as a core feature to
+the framework.
 
 **[View history 👵👴](history.md#history)**
 
