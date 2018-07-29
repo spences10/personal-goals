@@ -1,10 +1,11 @@
 # This week
 
-## 2018 Jul 23
+## 2018 Jul 30
 
 **What I did do last week:**
 
-- [x] been run down, plus got a broken toe!
+- [x] coding mojo slowly coming back. been mooching around with
+      refactoring old projects
 
 **What I didn't finish last week:**
 
@@ -12,7 +13,7 @@
 
 **Plan for this week:**
 
-- [ ] I need to come up with something!!
+- [ ] Gatsby v2 project of some description
 
 **Unplanned:**
 
@@ -26,14 +27,8 @@
 
 **Thoughts 💭**
 
-**20180723:** Sitting on my hands waiting for some projects to move
-along, namely react-static and GraphCMS.
-
-GraphCMS I'm waiting for the migration tools from legacy to the new
-platform.
-
-React-Static there was some talk of adding in PWA as a core feature to
-the framework.
+**20180729:** Have some project ideas I'd like to try but am still
+getting over being run down the last few weeks.
 
 **[View history 👵👴](history.md#history)**
 
