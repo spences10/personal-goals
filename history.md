@@ -4,32 +4,70 @@
   <summary>TOC</summary>
 <!-- TOC -->
 
-- [History](#history)
-  - [2018 Jun 04](#2018-jun-04)
-  - [2018 May 14](#2018-may-14)
-  - [2018 May 07](#2018-may-07)
-  - [2018 Apr 30](#2018-apr-30)
-  - [2018 Apr 23](#2018-apr-23)
-  - [2018 Apr 16](#2018-apr-16)
-  - [2018 Apr 09](#2018-apr-09)
-  - [2018 Apr 02](#2018-apr-02)
-  - [2018 Mar 26](#2018-mar-26)
-  - [2018 Mar 19](#2018-mar-19)
-  - [2018 Mar 12](#2018-mar-12)
-  - [2018 Mar 05](#2018-mar-05)
-  - [2018 Feb 26](#2018-feb-26)
-  - [2018 Feb 19](#2018-feb-19)
-  - [2018 Feb 12](#2018-feb-12)
-  - [2018 Feb 05](#2018-feb-05)
-  - [2018 Jan 29](#2018-jan-29)
-  - [2018 Jan 22](#2018-jan-22)
-  - [2018 Jan 15](#2018-jan-15)
-  - [2018 Jan 08](#2018-jan-08)
-  - [2018 Jan 01](#2018-jan-01)
+- [1. History](#1-history)
+  - [2018 Jul 23](#2018-jul-23)
+  - [2018 Jul 08](#2018-jul-08)
+  - [1.1. Jun 11](#11-jun-11)
+  - [1.2. Jun 04](#12-jun-04)
+  - [1.3. May 14](#13-may-14)
+  - [1.4. May 07](#14-may-07)
+  - [1.5. Apr 30](#15-apr-30)
+  - [1.6. Apr 23](#16-apr-23)
+  - [1.7. Apr 16](#17-apr-16)
+  - [1.8. Apr 09](#18-apr-09)
+  - [1.9. Apr 02](#19-apr-02)
+  - [1.10. Mar 26](#110-mar-26)
+  - [1.11. Mar 19](#111-mar-19)
+  - [1.12. Mar 12](#112-mar-12)
+  - [1.13. Mar 05](#113-mar-05)
+  - [1.14. Feb 26](#114-feb-26)
+  - [1.15. Feb 19](#115-feb-19)
+  - [1.16. Feb 12](#116-feb-12)
+  - [1.17. Feb 05](#117-feb-05)
+  - [1.18. Jan 29](#118-jan-29)
+  - [1.19. Jan 22](#119-jan-22)
+  - [1.20. Jan 15](#120-jan-15)
+  - [1.21. Jan 08](#121-jan-08)
+  - [1.22. Jan 01](#122-jan-01)
 
 <!-- /TOC -->
 
 </details>
+
+## 2018 Jul 23
+
+**What I did do last week:**
+
+- [x] been run down, plus got a broken toe!
+
+**What I didn't finish last week:**
+
+- [x] 🤷‍♀️
+
+**Plan for this week:**
+
+- [ ] I need to come up with something!!
+
+**Unplanned:**
+
+- [x] nothing!
+
+**WakaTime activity:**
+
+```sh
+
+```
+
+**Thoughts 💭**
+
+**20180723:** Sitting on my hands waiting for some projects to move
+along, namely react-static and GraphCMS.
+
+GraphCMS I'm waiting for the migration tools from legacy to the new
+platform.
+
+React-Static there was some talk of adding in PWA as a core feature to
+the framework.
 
 ## 2018 Jul 08
 
