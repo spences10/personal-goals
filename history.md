@@ -7,28 +7,28 @@
 - [1. History](#1-history)
   - [2018 Jul 23](#2018-jul-23)
   - [2018 Jul 08](#2018-jul-08)
-  - [1.1. Jun 11](#11-jun-11)
-  - [1.2. Jun 04](#12-jun-04)
-  - [1.3. May 14](#13-may-14)
-  - [1.4. May 07](#14-may-07)
-  - [1.5. Apr 30](#15-apr-30)
-  - [1.6. Apr 23](#16-apr-23)
-  - [1.7. Apr 16](#17-apr-16)
-  - [1.8. Apr 09](#18-apr-09)
-  - [1.9. Apr 02](#19-apr-02)
-  - [1.10. Mar 26](#110-mar-26)
-  - [1.11. Mar 19](#111-mar-19)
-  - [1.12. Mar 12](#112-mar-12)
-  - [1.13. Mar 05](#113-mar-05)
-  - [1.14. Feb 26](#114-feb-26)
-  - [1.15. Feb 19](#115-feb-19)
-  - [1.16. Feb 12](#116-feb-12)
-  - [1.17. Feb 05](#117-feb-05)
-  - [1.18. Jan 29](#118-jan-29)
-  - [1.19. Jan 22](#119-jan-22)
-  - [1.20. Jan 15](#120-jan-15)
-  - [1.21. Jan 08](#121-jan-08)
-  - [1.22. Jan 01](#122-jan-01)
+  - [2018 Jun 11](#2018-jun-11)
+  - [2018 Jun 04](#2018-jun-04)
+  - [2018 May 14](#2018-may-14)
+  - [2018 May 07](#2018-may-07)
+  - [2018 Apr 30](#2018-apr-30)
+  - [2018 Apr 23](#2018-apr-23)
+  - [2018 Apr 16](#2018-apr-16)
+  - [2018 Apr 09](#2018-apr-09)
+  - [2018 Apr 02](#2018-apr-02)
+  - [2018 Mar 26](#2018-mar-26)
+  - [2018 Mar 19](#2018-mar-19)
+  - [2018 Mar 12](#2018-mar-12)
+  - [2018 Mar 05](#2018-mar-05)
+  - [2018 Feb 26](#2018-feb-26)
+  - [2018 Feb 19](#2018-feb-19)
+  - [2018 Feb 12](#2018-feb-12)
+  - [2018 Feb 05](#2018-feb-05)
+  - [2018 Jan 29](#2018-jan-29)
+  - [2018 Jan 22](#2018-jan-22)
+  - [2018 Jan 15](#2018-jan-15)
+  - [2018 Jan 08](#2018-jan-08)
+  - [2018 Jan 01](#2018-jan-01)
 
 <!-- /TOC -->
 
@@ -103,7 +103,7 @@ feature that Gatsby has over React Static. That feature is PWA
 functionality. I have spent a fair amount of time trying to get
 something functional with no success.
 
-## 1.1. Jun 11
+## 2018 Jun 11
 
 **What I did do last week:**
 
@@ -154,7 +154,7 @@ something functional with no success.
 **20180610:** React Static has been a bit of an eye opener, I got a
 basic blog with GraphCMS set up in minutes 👌
 
-## 1.2. Jun 04
+## 2018 Jun 04
 
 **What I did do last week:**
 
@@ -208,7 +208,7 @@ basic blog with GraphCMS set up in minutes 👌
 process of moving my blog to Gatsby v2 and have decided instead of
 'just' migrating to do some styling as well.
 
-## 1.3. May 14
+## 2018 May 14
 
 **What I did do last week:**
 
@@ -270,7 +270,7 @@ try it with Next.js
 the blog! 18 hours spent twatting around the React Context API, the
 majority of this was OMFG why isn't this working!!
 
-## 1.4. May 07
+## 2018 May 07
 
 **What I did do last week:**
 
@@ -334,7 +334,7 @@ strong, real strong 🙃
 **20180519:** Missed updating this so updating today at the edn of the
 week to then update this weeks one tomorrow 🙃
 
-## 1.5. Apr 30
+## 2018 Apr 30
 
 **What I did do last week:**
 
@@ -385,7 +385,7 @@ week to then update this weeks one tomorrow 🙃
 
 **20180429:** Need to fix up my attitude and eat the frog! .
 
-## 1.6. Apr 23
+## 2018 Apr 23
 
 **What I did do last week:**
 
@@ -452,7 +452,7 @@ affecting my home life.
 
 <!-- links -->
 
-## 1.7. Apr 16
+## 2018 Apr 16
 
 **What I did do last week:**
 
@@ -496,7 +496,7 @@ affecting my home life.
 
 **20180416:**
 
-## 1.8. Apr 09
+## 2018 Apr 09
 
 **What I did do last week:**
 
@@ -525,7 +525,7 @@ affecting my home life.
 
 **20180415:** Still sick 😷
 
-## 1.9. Apr 02
+## 2018 Apr 02
 
 **What I did do last week:**
 
@@ -573,7 +573,7 @@ affecting my home life.
 **20180408:** I'm sick, have been for the past two weeks, some weird
 throat/cold thing. Feel the worst 😷🌡
 
-## 1.10. Mar 26
+## 2018 Mar 26
 
 **What I did do last week:**
 
@@ -633,7 +633,7 @@ couldn't Apple use the standard layout 🙃
 posts stored on the actual site over to GraphCMS, this will lend well
 to what I'm trying to accomplish at work as well.
 
-## 1.11. Mar 19
+## 2018 Mar 19
 
 **What I did do last week:**
 
@@ -695,7 +695,7 @@ to help security with a client.
 
 **20180324:** Have cold, feel like crap
 
-## 1.12. Mar 12
+## 2018 Mar 12
 
 **What I did do last week:**
 
@@ -767,7 +767,7 @@ Personal development is in a bit of limbo at the moment.
 
 **20180318:** Have been learning about CMS' over this week
 
-## 1.13. Mar 05
+## 2018 Mar 05
 
 **What I did do last week:**
 
@@ -821,7 +821,7 @@ Personal development is in a bit of limbo at the moment.
 
 **20180307:** Start my new job as a Front End Developer today 🙌
 
-## 1.14. Feb 26
+## 2018 Feb 26
 
 **What I did do last week:**
 
@@ -880,7 +880,7 @@ longer to complete that.
 on the basics with styled components. I have a theme switcher working
 which I'm quite proud of. I'll finish the post Tuesday.
 
-## 1.15. Feb 19
+## 2018 Feb 19
 
 **What I did do last week:**
 
@@ -936,7 +936,7 @@ front end developer 😂
 I had my first face to face with my Chungu cohorts and we planned the
 next voyage for `grad.then`
 
-## 1.16. Feb 12
+## 2018 Feb 12
 
 **What I did do last week:**
 
@@ -991,7 +991,7 @@ Day.
 finish c-counter. Learned today that patches should be tested in their
 own branch before going to the main dev branch 🙃
 
-## 1.17. Feb 05
+## 2018 Feb 05
 
 **What I did do last week:**
 
@@ -1057,7 +1057,7 @@ confused and frustrated me as the extent of my knowledge can be
 gleaned from my CV which states in the first paragraph that I have got
 18 months experience 🤷‍♀
 
-## 1.18. Jan 29
+## 2018 Jan 29
 
 **What I did do last week:**
 
@@ -1115,7 +1115,7 @@ such a nice framework, I'm now trying to redo some projects to add to
 my portfolio. characters-from-password, react-stopwatch and
 react-for-beginners will all be having a code refresh.
 
-## 1.19. Jan 22
+## 2018 Jan 22
 
 **What I did do last week:**
 
@@ -1161,7 +1161,7 @@ and as a result have not been able to concentrate on anything longer
 than five minutes. I have spent the majority of this week on the sofa
 watching Netflix.
 
-## 1.20. Jan 15
+## 2018 Jan 15
 
 **What I did do last week:**
 
@@ -1213,7 +1213,7 @@ do that in Gatsby too, made some good progress but have been a bit
 caught up with making it responsive first, I have spent a lot of time
 fiddling with grid areas.
 
-## 1.21. Jan 08
+## 2018 Jan 08
 
 **What I did do last week:**
 
@@ -1266,7 +1266,7 @@ static sites the tool I was using didn't support that at that time.
 I switched to the official Zeit example and set it up relativly
 easily.
 
-## 1.22. Jan 01
+## 2018 Jan 01
 
 **What I did do last week:**
 
